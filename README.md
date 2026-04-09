@@ -1,2 +1,2 @@
 # HR-Summary-Dashboard
-https://sa1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FHR%2BData%2BAnalytics%2BDashboards&action=view&mode=dashboard&subView=model0000019d6e4991f1_00000000&nav_filter=true
+<iframe src="https://sa1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FHR%2BData%2BAnalytics%2BDashboards&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000019d6e4991f1_00000000&amp;nav_filter=true" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
