@@ -1,5 +1,5 @@
 # HR-Summary-Dashboard
-This HR Summary Dashboard provides a high-level overview of the organization’s workforce, focusing on demographics, departmental distribution, and financial metrics across all global operations.
+This HR Summary Dashboard provides a high-level overview of the organization’s workforce, focusing on Demographics, Departmental Distribution, and Financial Metrics across all global operations.
 
 ## Key Performance Indicators (KPIs)
 The organization maintains a workforce of 1,470 employees (1.47K) with the following averages:
@@ -168,13 +168,13 @@ gdb056
 ## Importing data into PowerBi
 As the database is MySQL in this project, we need to import the datasets from MySQL database to PowerBI by providing the Database access credential
 
-## Data Model
-- Data Modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+## Data Module
+- Data Module plays a vital role and is considered as the basement of report. All the visuals will be build upon the Data Module.
 - Poor Data Modeling affects the over all performance of the report.
 - Following Good practices of Data Modeling is must. 
 - In this project, we have followed Snowfall Data Modeling method.
   
-[Data Model](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
+[Data Module](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
 
 
 ## Dashboard designing
