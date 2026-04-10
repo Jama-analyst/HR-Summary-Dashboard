@@ -1,0 +1,1471 @@
+Employee_ID,Gender,Marital_Status,Grade,Count,Job_Satisfaction,MonthlyIncome,MonthlyRate,Age,Job Type,Job Experience,Company_Environment,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,Country,Department_ID
+1,Female,Single,2,1,4,5993,19479,41,Permannent,18,5,0,1,6,4,United Kingdom,2
+2,Male,Married,2,1,2,5130,24907,49,Contractual,26,3,3,3,10,7,United States,3
+3,Male,Single,1,1,3,2090,2396,37,Contractual,14,4,3,3,0,0,Australia,4
+4,Female,Married,1,1,3,2909,23159,33,Contractual,10,4,3,3,8,7,Australia,4
+5,Male,Married,1,1,2,3468,16632,27,Contractual,4,1,3,3,2,2,Australia,4
+6,Male,Single,1,1,4,3068,11864,32,Contractual,9,4,2,2,7,7,Australia,4
+7,Female,Married,1,1,5,2670,9964,59,Contractual,36,3,3,2,1,0,Australia,4
+8,Male,Divorced,1,1,3,2693,13335,30,Contractual,7,4,2,3,1,0,Australia,4
+9,Male,Single,3,1,5,9526,8787,38,Contractual,15,4,2,3,9,7,Australia,4
+10,Male,,2,1,3,5237,16577,36,Contractual,13,3,3,2,7,7,Australia,4
+11,Male,Married,1,1,5,2426,16479,35,Contractual,12,1,5,3,5,4,Australia,4
+12,Female,Single,2,1,3,4193,12682,29,Contractual,6,4,3,3,9,5,Australia,4
+13,Male,Divorced,1,1,3,2911,15170,31,Contractual,8,1,1,2,5,2,Australia,4
+14,Male,Divorced,1,1,5,2661,8758,34,Contractual,11,2,2,3,2,2,Australia,4
+15,Male,Single,1,1,3,2028,12947,28,Contractual,5,3,4,3,4,2,Australia,4
+16,Female,Divorced,3,1,1,9980,10195,29,Contractual,6,2,1,3,10,9,Australia,4
+17,Male,Divorced,1,1,2,3298,15053,32,Contractual,9,1,5,2,6,2,Australia,4
+18,Male,Divorced,1,1,4,2935,7324,22,Contractual,-1,4,2,2,1,0,Australia,4
+19,Female,,4,1,4,15427,22021,53,Contractual,30,1,3,3,25,8,Australia,4
+20,Male,Single,1,1,4,3944,4306,38,Contractual,15,4,3,3,3,2,United Kingdom,2
+21,Female,Divorced,2,1,3,4011,8232,24,Contractual,1,1,5,2,4,2,United Kingdom,2
+22,Male,Single,1,1,1,3407,6986,36,Contractual,13,3,4,3,5,3,United Kingdom,2
+23,Female,Single,3,1,2,11994,21293,34,Contractual,11,1,4,3,12,6,United Kingdom,2
+24,Male,Single,1,1,4,1232,19281,21,Contractual,-2,3,6,3,0,0,United Kingdom,2
+25,Male,Single,1,1,1,2960,17102,34,Contractual,11,2,2,3,4,2,United Kingdom,2
+26,Female,Divorced,5,1,3,19094,10735,53,Contractual,30,3,3,2,14,13,United Kingdom,2
+27,Female,Single,1,1,1,3919,4681,32,Contractual,9,2,5,3,10,2,United Kingdom,2
+28,Male,Married,2,1,2,6825,21173,42,Contractual,19,3,2,3,9,7,United Kingdom,2
+29,Female,Married,3,1,4,10248,2094,44,Contractual,21,1,4,3,22,6,United Kingdom,2
+30,Female,Single,5,1,1,18947,22822,46,Contractual,23,2,2,2,2,2,United Kingdom,2
+31,Male,Single,1,1,4,2496,6670,33,Contractual,10,3,3,3,1,1,United Kingdom,2
+32,Male,Married,2,1,4,6465,19121,44,Contractual,21,4,5,4,4,2,United Kingdom,2
+33,Male,Single,1,1,3,2206,16117,30,Contractual,7,4,5,3,10,0,United Kingdom,2
+34,Male,Married,2,1,4,2086,3335,39,Contractual,16,5,6,4,1,0,United Kingdom,2
+35,Male,Married,1,1,4,2293,3020,24,Contractual,1,2,2,2,2,0,United Kingdom,2
+36,Female,Divorced,1,1,3,2645,21923,43,Contractual,20,4,3,2,5,3,United Kingdom,2
+37,Male,Married,1,1,3,2683,3810,50,Contractual,27,5,2,3,3,2,United Kingdom,2
+38,Female,Married,1,1,4,2014,9687,35,Contractual,12,4,3,3,2,2,United Kingdom,2
+39,Female,,1,1,1,3419,13072,36,Contractual,13,2,3,4,1,1,United Kingdom,2
+40,Female,Married,2,1,1,5376,3193,33,Permannent,10,3,3,3,5,3,United Kingdom,2
+41,Male,Divorced,1,1,4,1951,10910,35,Permannent,12,3,3,3,1,0,United Kingdom,2
+42,Female,Divorced,1,1,1,2341,19715,27,Permannent,4,4,6,3,1,0,United Kingdom,2
+43,Male,Single,1,1,3,2293,10558,26,Permannent,3,1,2,2,1,0,United Kingdom,3
+44,Male,Single,3,1,3,8726,2975,27,Permannent,4,4,0,3,9,8,United Kingdom,3
+45,Female,Single,2,1,4,4011,10781,30,Permannent,7,3,2,3,12,8,United Kingdom,3
+46,Female,Married,5,1,3,19545,16280,41,Permannent,18,2,0,3,22,15,United Kingdom,3
+47,Male,Single,2,1,3,4568,10034,34,Permannent,11,2,2,3,9,5,United Kingdom,3
+48,Male,Married,1,1,2,3022,10227,37,Permannent,14,2,1,3,1,0,United Kingdom,3
+49,Male,Single,2,1,5,5772,20445,46,Permannent,23,1,4,3,9,6,United Kingdom,3
+50,Male,,1,1,5,2269,4892,35,Permannent,12,4,2,3,1,0,United Kingdom,3
+51,Male,Single,3,1,3,5381,19294,48,Permannent,25,1,2,3,1,0,United Kingdom,3
+52,Male,Single,1,1,3,3441,11179,28,Permannent,5,3,3,2,2,2,United Kingdom,3
+53,Female,Divorced,2,1,1,5454,4009,44,Permannent,21,2,2,2,4,3,United Kingdom,3
+54,Male,,3,1,1,9884,8302,35,Permannent,12,5,3,3,4,0,United Kingdom,3
+55,Female,Married,2,1,4,4157,21436,26,Permannent,3,3,2,2,2,2,United Kingdom,3
+56,Female,Single,3,1,4,13458,15146,33,Permannent,10,1,1,3,15,14,United Kingdom,3
+57,Male,Married,3,1,1,9069,11031,35,Permannent,12,2,3,2,9,8,United Kingdom,3
+58,Female,Married,1,1,1,4014,16002,35,Permannent,12,3,3,3,2,2,United Kingdom,3
+59,Male,Divorced,2,1,4,5915,9528,31,Permannent,8,4,3,2,7,7,United Kingdom,3
+60,Male,,2,1,3,5993,2689,37,Permannent,14,5,2,4,7,5,United Kingdom,3
+61,Male,Married,2,1,4,6162,10877,32,Permannent,9,1,3,3,9,8,United Kingdom,3
+62,Female,Single,2,1,4,2406,5456,38,Permannent,15,4,2,3,10,3,United Kingdom,3
+63,Female,Divorced,5,1,3,18740,16701,50,Permannent,27,2,2,2,27,3,United Kingdom,3
+64,Female,Single,3,1,1,7637,2354,59,Permannent,36,1,3,2,21,16,United Kingdom,3
+65,Female,Divorced,3,1,3,10096,8202,36,Permannent,13,3,2,3,17,14,United Kingdom,3
+66,Female,Divorced,4,1,3,14756,19730,55,Permannent,32,4,2,3,5,0,United Kingdom,3
+67,Male,Single,2,1,2,6499,22656,36,Permannent,13,2,3,3,6,5,United States,3
+68,Male,Divorced,3,1,1,9724,18787,45,Permannent,22,2,2,3,1,0,United States,3
+69,M,Married,1,1,1,2194,5868,35,Permannent,12,2,2,2,3,2,United States,3
+70,Male,Married,1,1,3,3388,21777,36,Permannent,13,4,0,2,1,0,United States,3
+71,Female,Single,2,1,3,5473,24668,59,Permannent,36,1,2,2,4,3,United States,3
+72,M,Married,1,1,2,2703,4956,29,Permannent,6,3,3,3,5,4,United States,3
+73,Male,Single,1,1,2,2501,18775,31,Permannent,8,3,4,3,1,1,United States,3
+74,Male,Married,2,1,2,6220,7346,32,Permannent,9,2,3,3,10,4,United States,3
+75,Female,Married,1,1,4,3038,22002,36,Permannent,13,2,3,3,1,0,United States,3
+76,F,Single,2,1,4,4424,20682,31,Permannent,8,3,2,3,11,7,United States,3
+77,Male,Single,2,1,1,4312,23016,35,Permannent,12,3,2,3,15,13,United States,3
+78,Male,Married,3,1,1,13245,15067,45,Permannent,22,4,3,4,0,0,United States,3
+79,Male,Single,3,1,3,13664,25258,37,Permannent,14,1,3,4,5,2,United States,3
+80,Male,Divorced,2,1,2,5021,10425,46,Permannent,23,2,2,3,4,2,United States,3
+81,Male,Married,2,1,4,5126,15998,30,Permannent,7,4,1,2,10,8,United States,3
+82,Male,Single,1,1,3,2859,26278,35,Permannent,12,2,3,3,6,4,United States,3
+83,Male,Married,3,1,4,10239,18092,55,Permannent,32,1,4,3,1,0,United States,3
+84,Female,,2,1,4,5329,15717,38,Permannent,15,2,3,3,13,11,United States,3
+85,Male,Married,2,1,2,4325,17736,34,Permannent,11,1,2,3,5,2,United States,3
+86,Male,Single,3,1,4,7260,21698,56,Permannent,33,4,3,2,6,4,United States,3
+87,M,Divorced,1,1,1,2322,9518,23,Permannent,0,3,3,3,0,0,United States,3
+88,M,Married,1,1,4,2075,18725,51,Permannent,28,4,4,3,4,2,United States,3
+89,M,Married,2,1,4,4152,15830,30,Permannent,7,3,3,3,11,10,United States,3
+90,M,,3,1,4,9619,13596,46,Permannent,23,3,3,3,9,8,United States,3
+91,M,Married,4,1,2,13503,14115,40,Permannent,17,3,3,2,22,3,United States,3
+92,Male,Single,2,1,4,5441,8423,51,Permannent,28,3,2,1,10,7,United States,3
+93,Female,Divorced,2,1,2,5209,19760,30,Permannent,7,3,4,2,11,8,United States,3
+94,Male,Married,3,1,1,10673,3142,46,Permannent,23,3,5,2,10,9,United States,3
+95,Male,Single,2,1,3,5010,24301,32,Permannent,9,2,0,3,11,8,United States,3
+96,Female,Married,3,1,3,13549,24001,54,Permannent,31,1,5,1,4,3,United States,3
+97,Female,Married,2,1,3,4999,17519,24,Permannent,1,1,2,2,3,2,United States,3
+98,Male,Married,2,1,3,4221,8863,28,Permannent,5,2,3,4,5,4,United States,3
+99,Male,Single,4,1,3,13872,24409,58,Permannent,35,4,1,2,37,10,United States,3
+100,Male,Married,2,1,2,2042,25043,44,Permannent,21,2,3,4,3,2,United States,3
+101,Male,Divorced,1,1,1,2073,23648,37,Permannent,14,3,3,3,3,2,United States,3
+102,Male,Single,1,1,1,2956,15178,32,Permannent,9,4,2,3,1,0,United States,3
+103,Female,Single,1,1,4,2926,19783,20,Permannent,-3,4,5,3,1,0,United States,3
+104,Female,Single,2,1,3,4809,12482,34,Permannent,11,1,3,3,16,13,United States,3
+105,Male,Divorced,2,1,4,5163,15850,37,Permannent,14,3,2,4,1,0,United States,3
+106,Female,Married,5,1,4,18844,21922,59,Permannent,36,3,3,3,3,2,United States,3
+107,Female,Married,5,1,2,18172,9755,50,Permannent,27,1,1,2,8,3,United States,3
+108,Male,Single,2,1,3,5744,26959,25,Permannent,2,3,1,3,6,4,United States,3
+109,Male,Married,1,1,4,2889,26897,25,Permannent,2,4,2,3,2,2,United States,3
+110,Female,,1,1,4,2871,23785,22,Permannent,-1,2,5,3,0,0,United States,3
+111,Female,Single,3,1,1,7484,25796,51,Permannent,28,1,1,2,13,12,United States,3
+112,Male,Single,2,1,3,6074,22887,34,Permannent,11,1,3,3,9,7,United States,3
+113,Female,Single,4,1,4,17328,13871,54,Permannent,31,4,3,3,5,3,United States,3
+114,Male,Married,1,1,3,2774,13257,24,Permannent,1,2,2,3,5,3,United States,3
+115,Female,Divorced,2,1,2,4505,15000,34,Permannent,11,3,3,3,1,0,United States,3
+116,Male,Single,3,1,4,7428,14506,37,Permannent,14,3,3,3,5,3,United States,3
+117,F,Single,3,1,1,11631,5615,34,Permannent,11,3,6,3,11,10,United States,3
+118,F,Married,3,1,4,9738,22952,36,Permannent,13,2,6,3,9,7,United States,3
+119,F,Divorced,1,1,4,2835,2561,36,Permannent,13,1,2,3,1,0,United States,3
+120,Male,Married,4,1,4,16959,19494,43,Permannent,20,3,3,4,25,12,United States,3
+121,Male,Divorced,1,1,3,2613,22310,30,Permannent,7,1,2,2,10,7,United States,3
+122,Male,Married,2,1,2,6146,15480,33,Permannent,10,3,2,4,7,7,United States,3
+123,Female,Married,1,1,2,4963,4510,56,Permannent,33,2,2,3,5,4,United States,3
+124,Male,Single,5,1,3,19537,6462,51,Permannent,28,1,5,3,20,18,United States,3
+125,Male,,2,1,3,6172,20739,31,Permannent,8,2,3,2,7,7,United States,3
+126,Female,Married,1,1,2,2368,23300,26,Permannent,3,3,3,2,5,4,United States,3
+127,Female,Married,3,1,4,10312,3465,58,Permannent,35,4,3,2,40,10,United States,3
+128,Male,Single,1,1,3,1675,26820,19,Permannent,-4,4,2,2,0,0,United States,3
+129,Male,Married,1,1,4,2523,19299,22,Permannent,-1,3,2,3,2,1,United States,3
+130,Female,Married,2,1,1,6567,5549,49,Permannent,26,3,2,2,15,11,United States,3
+131,Female,Single,1,1,3,4739,16090,43,Permannent,20,2,2,3,3,2,United States,3
+132,Female,Single,3,1,4,9208,6645,50,Permannent,27,3,3,3,2,2,United States,3
+133,Female,Married,2,1,3,4559,24788,31,Permannent,8,2,2,3,2,2,United States,3
+134,Male,Divorced,3,1,3,8189,21196,41,Permannent,18,3,2,3,9,7,United States,3
+135,Female,Married,1,1,3,2942,8916,26,Permannent,3,3,3,3,8,7,United States,3
+136,Male,Divorced,2,1,2,4941,2819,36,Permannent,13,2,0,3,3,2,United States,3
+137,Male,Single,3,1,4,10650,25150,51,Permannent,28,1,2,3,4,2,United States,3
+138,Female,Married,2,1,3,5902,14590,39,Permannent,16,4,1,4,15,11,United States,3
+139,Male,,2,1,3,8639,24835,25,Permannent,2,1,3,3,2,2,United States,3
+140,Male,Married,2,1,4,6347,13982,30,Permannent,7,3,2,1,11,9,United States,3
+141,Female,Single,1,1,1,4200,10224,32,Permannent,9,1,2,4,5,4,United States,3
+142,Male,Single,1,1,4,3452,9752,45,Permannent,22,3,2,2,6,5,United States,3
+143,Female,Single,2,1,3,4317,2302,38,Permannent,15,4,2,3,3,2,United States,3
+144,Female,Single,1,1,3,2632,23910,30,Permannent,7,1,4,2,5,4,United States,3
+145,Male,Divorced,2,1,4,4668,22812,32,Permannent,9,4,2,4,8,7,United States,3
+146,Female,Divorced,1,1,1,3204,10415,30,Permannent,7,4,3,3,3,2,United States,3
+147,Male,Single,1,1,4,2720,11162,30,Permannent,7,2,3,3,5,3,United States,3
+148,Male,Divorced,4,1,1,17181,12888,41,Permannent,18,4,2,2,7,6,United States,3
+149,Male,Married,1,1,1,2238,6961,41,Permannent,18,3,2,3,5,0,Australia,3
+150,Female,Single,1,1,2,1483,16102,19,Permannent,-4,2,3,3,1,0,Australia,3
+151,Female,Divorced,2,1,2,5605,8504,40,Permannent,17,2,2,3,20,7,Australia,3
+152,Male,Married,3,1,2,7295,11439,35,Permannent,12,3,3,3,10,8,Australia,3
+153,Male,Married,2,1,3,2306,16047,53,Permannent,30,2,3,1,7,7,Australia,3
+154,Male,Divorced,2,1,2,2348,10901,45,Permannent,22,2,2,1,17,9,Australia,3
+155,Female,Single,3,1,4,8998,15589,32,Permannent,9,2,2,3,9,8,Australia,3
+156,Male,Married,2,1,3,4319,26283,29,Permannent,6,4,1,3,10,7,Australia,3
+157,Male,Married,2,1,3,6132,13983,51,Permannent,28,2,2,3,1,0,Australia,3
+158,Female,Married,1,1,2,3346,11873,58,Permannent,35,2,3,2,1,0,Australia,3
+159,Male,Married,3,1,4,10855,8552,40,Permannent,17,3,2,2,12,11,Australia,3
+160,Female,Married,1,1,3,2231,11314,34,Permannent,11,3,3,3,4,3,Australia,3
+161,Male,Married,1,1,4,2323,11992,22,Permannent,-1,3,6,3,2,2,Australia,3
+162,Male,Divorced,1,1,2,2024,5970,27,Permannent,4,4,1,1,2,2,Australia,3
+163,Male,Married,1,1,4,2713,6672,28,Permannent,5,3,2,1,5,2,Australia,3
+164,Male,Divorced,3,1,4,9439,23402,57,Permannent,34,3,2,1,5,3,Australia,3
+165,Male,Divorced,1,1,3,2566,25326,27,Permannent,4,3,2,2,1,1,Australia,3
+166,Female,Single,5,1,2,19926,17053,50,Permannent,27,3,5,3,5,4,Australia,3
+167,Male,Divorced,1,1,3,2451,4609,41,Permannent,18,1,2,3,9,8,Australia,3
+168,Female,Married,3,1,4,9419,8053,30,Permannent,7,2,2,3,10,9,Australia,3
+169,Female,Single,2,1,4,8686,12930,38,Permannent,15,1,2,4,8,3,Australia,3
+170,Male,Single,1,1,3,3038,12430,32,Permannent,9,3,2,3,5,4,Australia,3
+171,Male,Married,1,1,2,3058,13364,27,Permannent,4,3,3,2,5,2,Australia,3
+172,Female,Single,1,1,1,2325,20989,19,Permannent,-4,3,5,4,0,0,Australia,3
+173,Male,Single,1,1,2,2088,15062,36,Permannent,13,4,3,2,8,7,Australia,3
+174,Male,Divorced,2,1,1,3072,11012,30,Permannent,7,3,4,3,12,9,Australia,3
+175,Female,Divorced,2,1,1,5006,6319,45,Permannent,22,3,3,4,5,4,Australia,3
+176,Female,Divorced,1,1,1,4257,13939,56,Permannent,33,3,3,3,2,2,Australia,3
+177,Male,Single,1,1,4,2500,10515,33,Permannent,10,3,2,4,3,1,Australia,3
+178,Male,Single,1,1,4,1102,9241,19,Permannent,-4,2,3,2,1,0,Australia,3
+179,Female,Divorced,3,1,1,10453,2137,46,Permannent,23,2,2,3,24,13,Australia,2
+180,Female,Single,1,1,4,2288,6319,38,Permannent,15,3,3,3,2,2,Australia,2
+181,Female,Married,1,1,4,3929,6984,31,Permannent,8,3,0,3,4,2,Australia,2
+182,Female,Single,1,1,2,2311,5711,34,Permannent,11,4,3,3,3,2,Australia,2
+183,Female,Single,1,1,2,3140,21728,41,Permannent,18,2,5,2,4,3,Australia,2
+184,Male,Married,1,1,3,3690,3425,50,Permannent,27,3,2,2,3,2,Australia,2
+185,Female,Divorced,2,1,1,4450,26250,53,Permannent,30,4,3,3,4,2,Australia,2
+186,Female,Married,1,1,2,2756,4673,33,Permannent,10,4,5,3,8,7,Australia,2
+187,Female,Married,5,1,3,19033,6499,40,Permannent,17,4,2,3,20,8,Australia,2
+188,Male,Single,5,1,2,18722,13339,55,Permannent,32,3,3,3,24,15,Australia,2
+189,Male,Married,2,1,3,9547,14074,34,Permannent,11,4,2,2,10,9,Australia,2
+190,Female,Single,4,1,2,13734,7192,51,Permannent,28,4,6,3,7,7,Australia,2
+191,Male,Married,5,1,3,19999,5678,52,Permannent,29,3,5,3,33,18,Australia,2
+192,Female,Single,1,1,2,2279,11781,27,Permannent,4,4,2,2,7,7,Australia,2
+193,Male,Married,2,1,3,5916,15497,35,Permannent,12,2,1,3,1,0,Australia,2
+194,Male,Divorced,1,1,4,2089,5228,43,Permannent,20,4,3,4,5,4,Australia,2
+195,Male,Married,4,1,4,16792,20462,45,Permannent,22,1,1,3,20,8,Australia,2
+196,Male,Married,1,1,1,3564,22977,37,Permannent,14,2,3,2,8,7,Australia,2
+197,Female,Single,2,1,2,4425,15986,35,Permannent,12,2,5,3,6,2,Australia,2
+198,Female,Divorced,2,1,3,5265,16439,42,Permannent,19,3,5,3,5,3,Australia,2
+199,Male,Married,2,1,3,6553,7259,38,Permannent,15,4,3,3,1,0,Australia,2
+200,Male,Married,2,1,4,6261,4185,38,Permannent,15,4,3,1,7,7,Australia,2
+201,Male,Married,2,1,1,4298,9679,27,Permannent,4,3,1,3,2,2,Australia,2
+202,Male,Divorced,2,1,4,6804,23793,49,Permannent,26,4,0,3,7,7,Australia,2
+203,Male,Divorced,1,1,3,3815,5972,34,Permannent,11,4,4,4,5,3,Australia,2
+204,Male,Married,2,1,4,2741,16523,40,Permannent,17,3,2,4,7,2,Australia,2
+205,Male,Married,2,1,1,6673,11354,38,Permannent,15,2,2,3,1,0,Australia,2
+206,Female,Married,3,1,4,7639,24525,29,Permannent,6,2,3,2,10,4,Australia,2
+207,Male,Divorced,1,1,2,2328,12392,22,Permannent,-1,4,2,2,4,2,Australia,2
+208,Female,Single,1,1,4,2153,7703,36,Permannent,13,2,2,3,8,1,Australia,2
+209,Male,Married,2,1,4,4876,14242,40,Permannent,17,4,5,1,3,2,Australia,2
+210,Male,Divorced,3,1,1,9396,12368,46,Permannent,23,4,3,3,4,2,Australia,2
+211,Male,Married,3,1,4,10400,25812,32,Permannent,9,4,2,2,14,8,Australia,2
+212,Male,Single,3,1,3,8474,20925,30,Permannent,7,3,2,3,11,8,Australia,2
+213,Female,Single,2,1,3,9981,12916,27,Permannent,4,4,2,3,7,7,Australia,2
+214,Male,Married,3,1,2,12490,15736,51,Permannent,28,2,5,1,10,9,Australia,2
+215,Female,Single,1,1,1,2657,8556,30,Permannent,7,4,5,3,5,2,Australia,2
+216,Female,Single,3,1,4,13591,14674,41,Permannent,18,4,3,3,1,0,Australia,2
+217,Female,Single,2,1,1,6696,22967,30,Permannent,7,3,5,2,6,3,Australia,2
+218,Male,Single,1,1,3,2058,19757,29,Permannent,6,3,1,2,6,2,Australia,2
+219,Female,Single,3,1,4,8865,16840,45,Permannent,22,4,2,3,19,7,Australia,2
+220,Female,Married,2,1,1,5940,17011,54,Permannent,31,4,4,3,6,2,Australia,2
+221,Male,Single,2,1,2,5914,9945,36,Permannent,13,4,3,4,13,11,Australia,2
+222,Female,Married,1,1,2,2622,13248,33,Permannent,10,3,3,3,3,2,Australia,2
+223,Male,Divorced,3,1,4,12185,10056,37,Permannent,14,2,1,3,10,8,Australia,2
+224,Male,Divorced,3,1,3,10609,9647,38,Permannent,15,1,6,2,16,10,Australia,2
+225,Male,Married,2,1,3,4345,4381,31,Permannent,8,3,2,3,5,4,Australia,2
+226,Male,Married,1,1,4,2177,8456,59,Permannent,36,3,6,3,1,0,United Kingdom,2
+227,Male,Divorced,1,1,4,2793,2539,37,Permannent,14,1,2,3,9,8,United Kingdom,2
+228,Female,Married,3,1,4,7918,6599,29,Permannent,6,2,5,3,11,10,United Kingdom,2
+229,Female,Single,3,1,3,8789,9096,35,Permannent,12,3,3,4,10,7,United Kingdom,2
+230,Male,Single,1,1,4,2389,14961,29,Permannent,6,3,3,2,4,3,United Kingdom,2
+231,Female,Single,1,1,4,3212,3300,52,Permannent,29,3,3,2,2,2,United Kingdom,2
+232,Male,Married,5,1,4,19232,4933,42,Permannent,19,3,3,3,22,17,United Kingdom,2
+233,Male,Married,1,1,3,2267,25657,59,Permannent,36,2,2,2,2,2,United Kingdom,2
+234,Female,Divorced,5,1,4,19517,24118,50,Permannent,27,4,3,2,7,0,United Kingdom,2
+235,Male,Married,1,1,4,2436,22149,33,Permannent,10,3,2,1,5,4,United Kingdom,2
+236,Female,Married,4,1,4,16064,7744,43,Permannent,20,4,3,3,17,13,United Kingdom,2
+237,Female,Married,1,1,1,2707,21509,33,Permannent,10,1,3,4,9,7,United Kingdom,2
+238,Male,Single,5,1,3,19068,21030,52,Permannent,29,1,2,4,33,7,United Kingdom,2
+239,Female,Married,1,1,2,3931,20990,32,Permannent,9,3,5,3,4,3,United Kingdom,2
+240,Male,Single,1,1,3,3730,9571,32,Permannent,9,4,2,1,3,2,United Kingdom,2
+241,Female,Divorced,1,1,3,2232,15417,39,Permannent,16,3,1,3,3,2,United Kingdom,2
+242,Male,Married,2,1,4,4465,12069,32,Permannent,9,3,2,3,3,2,United Kingdom,2
+243,Male,Divorced,2,1,1,3072,19877,41,Permannent,18,3,2,2,1,0,United Kingdom,2
+244,Male,Divorced,2,1,4,3319,24447,40,Permannent,17,1,3,3,9,8,United Kingdom,2
+245,Male,Married,5,1,4,19202,15970,45,Permannent,22,3,2,3,24,0,United Kingdom,2
+246,Male,Divorced,3,1,3,13675,13523,31,Permannent,8,2,3,3,2,2,United Kingdom,2
+247,Female,Married,1,1,4,2911,14776,33,Permannent,10,3,2,2,2,2,United Kingdom,2
+248,Male,Married,2,1,1,5957,23687,34,Permannent,11,4,3,3,11,9,United Kingdom,2
+249,Female,Married,1,1,1,3920,18697,37,Permannent,14,3,2,2,3,1,United Kingdom,2
+250,Male,Married,2,1,3,6434,5118,45,Permannent,22,1,1,3,3,2,United Kingdom,2
+251,Male,Divorced,3,1,3,10048,22573,37,Permannent,14,1,5,3,1,0,United Kingdom,2
+252,Female,Single,3,1,3,10938,6420,39,Permannent,16,3,1,3,19,6,United Kingdom,2
+253,Male,Single,1,1,4,2340,22673,29,Permannent,6,3,1,3,6,5,United Kingdom,2
+254,Female,Single,2,1,1,6545,23016,42,Permannent,19,4,1,3,3,2,United Kingdom,2
+255,Male,Divorced,2,1,4,6931,10732,29,Permannent,6,4,2,3,3,2,United Kingdom,2
+256,Female,Married,2,1,3,4898,7505,25,Permannent,2,1,3,3,4,2,United Kingdom,2
+257,Female,Divorced,1,1,1,2593,8007,42,Permannent,19,4,4,3,9,6,United Kingdom,2
+258,Male,Divorced,5,1,3,19436,5949,40,Permannent,17,1,5,3,21,7,United Kingdom,2
+259,Male,Married,1,1,4,2723,23231,51,Permannent,28,3,0,2,1,0,United Kingdom,2
+260,Male,Single,1,1,2,3479,11652,31,Permannent,8,3,2,4,5,4,United Kingdom,2
+261,Male,Married,1,1,2,2794,26062,32,Permannent,9,2,3,1,5,1,United Kingdom,2
+262,Male,Married,2,1,4,5249,19682,38,Permannent,15,4,0,3,8,7,United Kingdom,5
+263,Male,Single,2,1,1,2176,19737,32,Permannent,9,4,5,3,6,2,United Kingdom,5
+264,Female,Married,4,1,2,16872,14977,46,Permannent,23,3,2,2,7,7,United Kingdom,5
+265,Male,Single,1,1,3,3485,14935,28,Permannent,5,1,5,1,0,0,United Kingdom,5
+266,Male,Married,2,1,2,6644,3687,29,Permannent,6,1,2,3,0,0,United Kingdom,5
+267,Male,Married,2,1,4,5582,14408,31,Permannent,8,2,2,3,9,0,United Kingdom,5
+268,Male,Divorced,2,1,1,4000,18384,25,Permannent,2,2,2,3,6,3,United Kingdom,5
+269,Male,Married,4,1,4,13496,7501,45,Permannent,22,3,2,3,20,7,United Kingdom,5
+270,Male,Married,1,1,4,3210,20251,36,Permannent,13,4,4,3,15,13,United Kingdom,5
+271,Male,Single,5,1,1,19045,18938,55,Permannent,32,4,2,3,36,10,United Kingdom,5
+272,Male,Married,3,1,2,11849,10268,47,Permannent,24,1,2,2,10,7,United Kingdom,5
+273,Male,Married,1,1,4,2070,2613,28,Permannent,5,4,3,2,5,2,United Kingdom,5
+274,Male,Married,2,1,4,6502,22825,37,Permannent,14,3,5,4,5,4,United Kingdom,5
+275,Male,Single,1,1,3,3230,10531,21,Permannent,-2,4,4,4,3,2,United Kingdom,5
+276,Female,Divorced,3,1,4,13603,11677,37,Permannent,14,1,2,3,5,2,United Kingdom,5
+277,Female,Divorced,3,1,2,11996,19100,35,Permannent,12,2,6,2,7,7,United Kingdom,5
+278,Female,Divorced,2,1,1,5605,19191,38,Permannent,15,1,3,3,8,0,United Kingdom,5
+279,Female,Divorced,2,1,2,6397,26767,26,Permannent,3,3,6,1,6,5,United Kingdom,5
+280,Male,Divorced,5,1,2,19144,15815,50,Permannent,27,1,4,2,10,4,United Kingdom,5
+281,Male,Married,4,1,3,17584,21016,53,Permannent,30,3,5,2,5,3,United Kingdom,5
+282,Male,Married,2,1,3,4907,24532,42,Permannent,19,2,3,3,20,16,United Kingdom,5
+283,Male,Single,2,1,4,4554,20260,29,Permannent,6,2,3,2,10,7,United Kingdom,5
+284,Male,Married,2,1,4,5415,15972,55,Permannent,32,2,4,3,10,7,United Kingdom,5
+285,Male,Married,2,1,1,4741,22722,26,Permannent,3,1,3,3,5,3,United Kingdom,5
+286,Female,Single,1,1,4,2115,15881,37,Permannent,14,4,3,3,17,12,United Kingdom,5
+287,Male,Divorced,1,1,3,3161,19920,44,Permannent,21,4,0,1,1,0,United Kingdom,5
+288,Male,Divorced,2,1,4,5745,18899,38,Permannent,15,4,2,3,2,2,United Kingdom,5
+289,Male,Divorced,1,1,2,2373,14180,26,Permannent,3,1,2,3,3,2,United Kingdom,5
+290,Female,Single,1,1,4,3310,4488,28,Permannent,5,4,3,3,5,3,United Kingdom,5
+291,Female,Single,5,1,1,18665,25594,49,Permannent,26,3,4,3,3,2,United Kingdom,5
+292,Male,Single,2,1,2,4485,26285,36,Permannent,13,3,2,3,8,0,United Kingdom,5
+293,Female,Divorced,1,1,2,2789,3909,31,Permannent,8,4,5,2,2,2,United Kingdom,5
+294,Male,Single,2,1,4,5828,8450,26,Permannent,3,4,0,3,8,7,United Kingdom,5
+295,Male,Married,1,1,4,2326,11411,37,Permannent,14,2,3,2,4,2,United Kingdom,5
+296,Female,Married,4,1,2,13525,14864,42,Permannent,19,3,2,4,20,4,United Kingdom,5
+297,Male,Single,1,1,3,1420,25233,18,Permannent,-5,3,2,3,0,0,United Kingdom,5
+298,Male,Married,3,1,2,8020,5100,35,Permannent,12,3,3,2,11,9,United Kingdom,5
+299,Male,Married,1,1,4,3688,7122,36,Permannent,13,3,2,3,1,0,United Kingdom,5
+300,Male,Divorced,2,1,2,5482,16321,51,Permannent,28,4,3,3,4,1,United Kingdom,5
+301,Male,Single,4,1,2,16015,15896,41,Permannent,18,4,2,3,22,10,United Kingdom,5
+302,Female,Single,1,1,3,1200,9724,18,Permannent,-5,4,2,3,0,0,United Kingdom,5
+303,Male,Single,2,1,1,5661,4824,28,Permannent,5,2,2,3,8,3,United Kingdom,5
+304,Male,Married,2,1,4,6929,12241,31,Permannent,8,2,3,2,8,7,United Kingdom,5
+305,Male,Divorced,3,1,4,9613,10942,39,Permannent,16,3,5,2,18,10,United Kingdom,5
+306,Female,Married,2,1,2,5674,6927,36,Permannent,13,2,3,3,9,8,United Kingdom,5
+307,Male,Married,2,1,3,5484,16985,32,Permannent,9,4,3,2,13,8,United Kingdom,5
+308,Female,Married,3,1,2,12061,26707,38,Permannent,15,1,2,3,10,8,United Kingdom,5
+309,Male,Divorced,2,1,3,5660,17056,58,Permannent,35,4,2,3,5,3,United Kingdom,5
+310,Male,Married,1,1,4,4821,10077,31,Permannent,8,3,4,3,5,2,United Kingdom,5
+311,Male,Married,2,1,1,6410,17822,31,Permannent,8,1,1,3,2,2,United Kingdom,5
+312,Male,Divorced,3,1,1,5210,20308,45,Permannent,22,1,2,3,24,9,United Kingdom,5
+313,Male,Divorced,1,1,4,2695,7747,31,Permannent,8,3,2,1,2,2,United Kingdom,5
+314,Female,Married,3,1,2,11878,23364,33,Permannent,10,4,2,3,10,6,United Kingdom,5
+315,Male,Married,4,1,1,17068,5355,39,Permannent,16,3,3,3,21,9,United Kingdom,5
+316,Female,Single,1,1,4,2455,10675,43,Permannent,20,3,5,3,8,7,United Kingdom,5
+317,Female,Single,4,1,3,13964,17810,49,Permannent,26,3,2,3,7,1,United Kingdom,5
+318,Male,Married,2,1,2,4941,17747,52,Permannent,29,3,3,2,8,2,United Kingdom,5
+319,Female,Single,1,1,2,2478,20938,27,Permannent,4,3,2,2,4,3,United Kingdom,5
+320,Female,Married,2,1,2,5228,24624,32,Permannent,9,3,2,3,13,12,United Kingdom,5
+321,Male,Single,2,1,3,4478,5242,27,Permannent,4,4,3,3,5,4,United Kingdom,5
+322,Male,Divorced,2,1,4,7547,7143,31,Permannent,8,4,3,3,7,7,United Kingdom,5
+323,Female,Single,2,1,4,5055,10557,32,Permannent,9,1,0,2,7,7,United Kingdom,5
+324,Male,Married,1,1,4,3464,24737,28,Permannent,5,1,4,2,3,2,United Kingdom,5
+325,Female,Married,2,1,4,5775,11934,30,Permannent,7,4,2,3,10,8,United Kingdom,5
+326,Female,Married,3,1,3,8943,14034,31,Permannent,8,3,2,3,10,9,United Kingdom,5
+327,Male,Married,5,1,4,19272,21141,39,Permannent,16,3,2,3,21,9,United Kingdom,5
+328,Female,Married,2,1,3,5238,17778,39,Permannent,16,4,3,2,1,0,United Kingdom,5
+329,Male,Single,2,1,4,4682,4317,33,Permannent,10,2,6,2,7,7,United Kingdom,5
+330,Male,Married,5,1,3,18300,16375,47,Permannent,24,4,2,3,3,2,United Kingdom,5
+331,Female,Divorced,2,1,3,5257,6227,43,Permannent,20,3,3,4,9,7,United Kingdom,5
+332,Male,Married,2,1,2,6349,22107,27,Permannent,4,3,0,3,5,4,United Kingdom,5
+333,Female,Single,2,1,3,4869,16885,54,Permannent,31,4,4,2,4,3,United Kingdom,5
+334,Female,Married,3,1,1,9985,9262,43,Permannent,20,3,1,2,1,0,United Kingdom,5
+335,Male,Married,2,1,4,3697,9278,45,Permannent,22,4,3,3,10,9,United Kingdom,5
+336,Male,Married,2,1,4,7457,13273,40,Permannent,17,2,2,2,4,3,United Kingdom,5
+337,Male,Married,1,1,1,2119,4759,29,Permannent,6,2,4,2,7,7,United Kingdom,5
+338,Male,Single,1,1,4,3983,7621,29,Permannent,6,2,2,3,3,2,United Kingdom,5
+339,Female,Divorced,2,1,3,6118,5431,30,Permannent,7,4,2,3,10,9,United Kingdom,5
+340,Female,Married,2,1,2,6214,3415,27,Permannent,4,2,3,3,8,7,United Kingdom,5
+341,Male,Divorced,2,1,4,6347,23177,37,Permannent,14,4,2,2,6,2,United Kingdom,5
+342,Male,Divorced,3,1,4,11510,15682,38,Permannent,15,3,3,3,11,10,United Kingdom,5
+343,Female,Single,3,1,4,7143,25713,31,Permannent,8,3,2,2,11,9,United Kingdom,5
+344,Female,Divorced,2,1,2,8268,11866,29,Permannent,6,4,2,3,7,7,United Kingdom,5
+345,Male,Single,3,1,2,8095,18264,35,Permannent,12,3,5,3,16,6,United Kingdom,5
+346,Male,Divorced,1,1,4,2904,16092,23,Permannent,0,3,2,2,4,2,United Kingdom,5
+347,Male,Single,2,1,2,6032,10110,41,Permannent,18,4,3,3,5,4,United Kingdom,5
+348,Male,Single,2,1,3,2976,25751,47,Permannent,24,2,3,3,0,0,United Kingdom,5
+349,Female,Single,4,1,4,15992,15901,42,Permannent,19,1,2,3,1,0,United Kingdom,5
+350,Male,Married,2,1,3,4649,16928,29,Permannent,6,4,3,2,4,3,United Kingdom,5
+351,Male,Divorced,1,1,3,2696,24017,42,Permannent,19,3,5,3,3,2,United Kingdom,5
+352,Female,Married,1,1,2,2370,3956,32,Permannent,9,3,4,3,8,0,United Kingdom,5
+353,Female,Married,3,1,3,12504,23978,48,Permannent,25,1,3,1,0,0,United Kingdom,5
+354,Male,Divorced,2,1,1,5974,17001,37,Permannent,14,3,2,3,7,7,United Kingdom,5
+355,Female,Married,2,1,3,4736,6069,30,Permannent,7,4,2,4,2,2,United Kingdom,5
+356,Male,Married,2,1,3,5296,20156,26,Permannent,3,3,3,3,8,7,United Kingdom,5
+357,Male,Single,2,1,4,6781,17078,42,Permannent,19,1,6,3,1,0,United Kingdom,5
+358,Female,Single,1,1,2,2174,9150,21,Permannent,-2,1,3,3,3,2,United Kingdom,5
+359,Female,Single,2,1,4,6653,15276,36,Permannent,13,4,6,3,1,0,United Kingdom,5
+360,Male,Married,3,1,4,9699,7246,36,Permannent,13,1,2,3,13,9,United Kingdom,5
+361,Male,Married,2,1,3,6755,2967,57,Permannent,34,4,2,3,3,2,United Kingdom,5
+362,Female,Married,1,1,3,2213,22495,40,Permannent,17,4,3,3,7,7,United Kingdom,5
+363,Male,Single,1,1,4,2610,2851,21,Permannent,-2,1,3,2,3,2,United Kingdom,5
+364,Female,Single,1,1,3,2851,9150,33,Permannent,10,4,2,3,1,0,United Kingdom,5
+365,Female,Married,1,1,1,3452,17663,37,Permannent,14,3,3,3,5,4,United Kingdom,5
+366,Female,Married,2,1,3,5258,16044,46,Permannent,23,3,2,4,1,0,United Kingdom,5
+367,Male,Single,2,1,2,9355,9558,41,Permannent,18,1,5,3,8,7,United Kingdom,5
+368,Male,Single,3,1,4,10496,2755,50,Permannent,27,4,2,3,4,3,United Kingdom,5
+369,Male,Married,2,1,3,6380,6110,40,Permannent,17,3,6,3,6,4,United Kingdom,5
+370,Male,Single,1,1,2,2657,7551,31,Permannent,8,3,5,3,2,2,United Kingdom,5
+371,Female,Single,1,1,2,2716,25422,21,Permannent,-2,3,0,3,1,0,United Kingdom,5
+372,Male,Single,1,1,4,2201,18168,29,Permannent,6,4,4,3,3,2,United Kingdom,5
+373,Male,Single,2,1,2,6540,19394,35,Permannent,12,3,5,3,1,1,United Kingdom,5
+374,Male,Divorced,1,1,2,3816,17881,27,Permannent,4,4,2,3,5,2,United Kingdom,5
+375,Male,Single,2,1,4,5253,20750,28,Permannent,5,2,1,3,7,5,United Kingdom,5
+376,Male,Single,3,1,3,10965,12066,49,Permannent,26,2,2,3,5,2,United Kingdom,5
+377,Female,Married,2,1,4,4936,14862,51,Permannent,28,3,2,2,7,7,United Kingdom,5
+378,Female,Married,1,1,3,2543,11868,36,Permannent,13,4,3,3,2,2,United Kingdom,5
+379,Male,Single,2,1,4,5304,4652,34,Permannent,11,1,3,2,5,2,United Kingdom,5
+380,Female,Single,4,1,4,16659,23258,55,Permannent,32,3,2,3,5,4,United Kingdom,5
+381,Female,Divorced,2,1,3,4260,5915,24,Permannent,1,4,2,4,5,2,United Kingdom,5
+382,Male,Married,1,1,2,2476,17434,30,Permannent,7,3,3,3,1,0,United Kingdom,5
+383,Male,Single,1,1,1,3102,6582,26,Permannent,3,3,2,3,6,4,United Kingdom,5
+384,Female,Married,1,1,2,2244,24440,22,Permannent,-1,1,1,3,2,1,United Kingdom,5
+385,Male,Married,3,1,3,7596,3809,36,Permannent,13,2,2,3,10,9,United Kingdom,5
+386,Male,Single,1,1,4,2285,3427,30,Permannent,7,3,4,3,1,0,United Kingdom,5
+387,Female,Divorced,1,1,1,3034,26914,37,Permannent,14,4,2,2,18,7,United Kingdom,5
+388,Female,Divorced,2,1,2,5715,22553,40,Permannent,17,4,5,3,5,4,United Kingdom,5
+389,Female,Divorced,1,1,1,2576,20490,42,Permannent,19,2,5,3,5,2,United Kingdom,5
+390,Male,Single,2,1,2,4197,21123,37,Permannent,14,3,2,2,1,0,United Kingdom,5
+391,Male,Divorced,4,1,2,14336,4345,43,Permannent,20,1,3,3,25,10,United Kingdom,5
+392,Female,Married,2,1,3,3448,13436,40,Permannent,17,2,3,3,1,0,United Kingdom,5
+393,Male,Married,5,1,1,19406,8509,54,Permannent,31,1,4,2,4,2,United Kingdom,5
+394,Female,Married,2,1,3,6538,12740,34,Permannent,11,3,3,3,3,2,United Kingdom,5
+395,Female,Married,2,1,1,4306,4156,31,Permannent,8,2,5,1,13,10,United Kingdom,5
+396,Male,Married,1,1,4,2258,15238,43,Permannent,20,4,1,3,3,2,United Kingdom,5
+397,Female,Divorced,2,1,3,4522,2227,43,Permannent,20,3,3,3,5,2,United Kingdom,5
+398,Female,Single,2,1,4,4487,12090,25,Permannent,2,2,3,3,5,4,United Kingdom,5
+399,Female,Married,2,1,3,4449,23866,37,Permannent,14,2,2,3,13,11,United Kingdom,5
+400,Male,Married,1,1,1,2218,16193,31,Permannent,8,4,3,3,4,2,United Kingdom,5
+401,Male,Divorced,5,1,3,19197,8213,39,Permannent,16,2,3,3,21,8,United Kingdom,5
+402,Female,Married,4,1,1,13212,18256,56,Permannent,33,3,0,2,7,7,United Kingdom,5
+403,Female,Single,2,1,3,6577,19558,30,Permannent,7,2,6,3,5,4,United Kingdom,5
+404,Male,Married,3,1,1,8392,19566,41,Permannent,18,2,2,3,10,7,United Kingdom,5
+405,Male,Divorced,2,1,1,4558,13535,28,Permannent,5,3,2,3,10,0,United Kingdom,5
+406,Male,Married,1,1,1,4031,9396,25,Permannent,2,1,5,3,2,2,United Kingdom,5
+407,Male,Married,3,1,3,7969,19609,52,Permannent,29,4,4,3,5,4,United Kingdom,5
+408,Male,Married,1,1,4,2654,9655,45,Permannent,22,1,3,2,2,2,United Kingdom,5
+409,Female,Married,4,1,4,16555,10310,52,Permannent,29,4,2,1,5,2,United Kingdom,5
+410,Female,Divorced,2,1,3,4556,12932,42,Permannent,19,1,3,3,5,4,United Kingdom,5
+411,Female,Single,2,1,4,6091,24793,30,Permannent,7,3,2,3,5,4,United Kingdom,5
+412,Female,Married,5,1,1,19566,3854,60,Permannent,37,1,5,1,29,8,United Kingdom,5
+413,Female,Divorced,2,1,3,4810,26314,46,Permannent,23,3,5,2,10,7,United Kingdom,5
+414,Female,Married,2,1,4,4523,4386,42,Permannent,19,4,4,4,6,5,United Kingdom,5
+415,Female,Single,1,1,2,3202,21972,24,Permannent,1,1,4,3,5,3,United Kingdom,5
+416,Female,Divorced,1,1,3,2351,12253,34,Permannent,11,4,3,2,2,2,United Kingdom,5
+417,Male,Married,1,1,4,1702,12106,38,Permannent,15,4,3,3,1,0,United Kingdom,5
+418,Female,Married,5,1,3,18041,13022,40,Permannent,17,3,2,3,20,15,United Kingdom,5
+419,Female,Divorced,1,1,4,2886,3032,26,Permannent,3,1,3,1,3,2,United Kingdom,5
+420,Male,Married,1,1,4,2097,16734,30,Permannent,7,3,3,1,5,3,United Kingdom,5
+421,Male,Married,3,1,3,11935,21526,29,Permannent,6,2,2,3,10,2,United Kingdom,5
+422,Female,Married,1,1,2,2546,18300,29,Permannent,6,3,2,4,2,2,United Kingdom,5
+423,Male,Single,1,1,4,2564,18437,19,Permannent,-4,1,3,4,1,0,United Kingdom,5
+424,Female,Married,3,1,1,8412,2890,30,Permannent,7,3,3,3,9,8,United Kingdom,5
+425,Male,Divorced,4,1,4,14118,22102,57,Permannent,34,1,3,2,1,0,United Kingdom,5
+426,Male,Married,4,1,3,17046,9314,50,Permannent,27,2,2,3,27,10,United Kingdom,5
+427,Female,Single,1,1,4,2564,7181,30,Permannent,7,3,2,2,11,7,United Kingdom,5
+428,Female,Married,3,1,1,10266,2845,60,Permannent,37,3,5,4,18,13,United Kingdom,5
+429,Female,Divorced,2,1,4,5070,7389,47,Permannent,24,1,2,3,5,0,United Kingdom,5
+430,Male,Married,4,1,3,17861,2288,46,Permannent,23,1,2,1,3,2,United Kingdom,5
+431,Male,Single,1,1,3,4230,19225,35,Permannent,12,4,2,3,5,4,United Kingdom,5
+432,Female,Single,2,1,3,3780,23428,54,Permannent,31,3,3,3,1,0,United Kingdom,5
+433,Male,Divorced,1,1,3,2768,8416,34,Permannent,11,4,3,3,7,3,United Kingdom,5
+434,Female,Married,3,1,4,9071,11563,46,Permannent,23,3,3,3,3,2,United Kingdom,5
+435,Male,Divorced,3,1,2,10648,14394,31,Permannent,8,3,6,4,13,8,United Kingdom,5
+436,Male,Married,3,1,3,13610,24619,33,Permannent,10,2,2,4,7,6,United Kingdom,5
+437,Male,Divorced,1,1,4,3408,6705,33,Permannent,10,1,2,3,4,3,United Kingdom,5
+438,Male,Single,1,1,2,2983,18398,30,Permannent,7,4,3,3,3,2,United Kingdom,5
+439,Male,Married,3,1,3,7632,14295,35,Permannent,12,4,2,3,8,7,United Kingdom,5
+440,Male,Married,3,1,3,9824,22908,31,Permannent,8,1,2,3,1,0,United Kingdom,5
+441,Female,Divorced,3,1,1,9950,11533,34,Permannent,11,2,2,3,3,2,United Kingdom,5
+442,Male,Married,1,1,3,2093,9260,42,Permannent,19,2,4,3,2,2,United Kingdom,5
+443,Male,Single,3,1,4,9980,15318,36,Permannent,13,2,3,2,10,3,United Kingdom,5
+444,Male,Single,1,1,3,3894,9129,22,Permannent,-1,3,3,3,2,2,United Kingdom,5
+445,Female,Married,2,1,4,4051,19658,48,Permannent,25,2,2,3,9,7,United Kingdom,5
+446,Female,Single,4,1,2,16835,9873,55,Permannent,32,1,2,3,10,9,United Kingdom,5
+447,Male,Single,2,1,4,6230,13430,41,Permannent,18,4,3,3,14,3,United Kingdom,5
+448,Male,Married,2,1,3,4717,18659,35,Permannent,12,2,2,3,11,9,United Kingdom,5
+449,Female,Single,4,1,3,13237,20364,40,Permannent,17,2,3,3,20,6,United Kingdom,5
+450,Female,Married,1,1,3,3755,17872,39,Permannent,16,3,3,3,8,3,United Kingdom,5
+451,Male,Single,2,1,4,6582,8346,31,Permannent,8,2,2,4,6,5,United Kingdom,5
+452,Male,Married,3,1,1,7406,6950,42,Permannent,19,4,5,2,10,9,United Kingdom,5
+453,Male,Married,2,1,2,4805,16177,45,Permannent,22,4,3,4,8,7,United Kingdom,5
+454,Female,Divorced,1,1,3,2741,22808,26,Permannent,3,2,2,2,7,7,United Kingdom,5
+455,Male,Divorced,2,1,4,4262,22645,29,Permannent,6,4,2,4,3,2,United Kingdom,5
+456,Female,Divorced,4,1,3,16184,22578,33,Permannent,10,1,2,3,6,1,United Kingdom,5
+457,Male,Divorced,3,1,4,11557,25291,31,Permannent,8,3,3,2,5,4,United Kingdom,5
+458,Male,Single,1,1,2,1878,8059,18,Permannent,-5,2,3,3,0,0,United Kingdom,5
+459,Male,Divorced,3,1,1,10932,11373,40,Permannent,17,3,2,3,1,0,Australia,5
+460,Female,Single,2,1,3,6811,2112,41,Permannent,18,1,3,3,8,7,Australia,5
+461,Male,Divorced,2,1,3,4306,4267,26,Permannent,3,1,5,3,0,0,Australia,5
+462,Female,Single,2,1,3,4859,6698,35,Permannent,12,1,3,3,5,4,Australia,5
+463,Male,Single,2,1,4,5337,19921,34,Permannent,11,4,3,3,10,7,Australia,5
+464,Male,Single,1,1,4,2340,23213,26,Permannent,3,3,3,1,1,0,Australia,5
+465,Female,Single,3,1,4,7491,23848,37,Permannent,14,2,3,4,6,5,Australia,5
+466,Female,Married,3,1,3,10527,8984,46,Permannent,23,1,3,2,2,2,Australia,5
+467,Female,Married,4,1,1,16595,5626,41,Permannent,18,2,2,3,18,16,Australia,5
+468,Male,Divorced,3,1,2,8834,24666,37,Permannent,14,1,6,3,9,5,Australia,5
+469,Male,Divorced,2,1,1,5577,22087,52,Permannent,29,4,3,3,10,9,Australia,5
+470,Male,Married,2,1,3,4707,23914,32,Permannent,9,4,2,3,4,2,Australia,5
+471,Male,Married,1,1,4,2400,5530,24,Permannent,1,4,3,3,2,2,Australia,5
+472,Female,Married,2,1,3,9824,22174,38,Permannent,15,3,4,3,1,0,Australia,5
+473,Female,Married,2,1,2,6447,15701,37,Permannent,14,2,2,2,6,5,Australia,5
+474,Male,Divorced,5,1,3,19502,2125,49,Permannent,26,4,5,3,31,9,Australia,5
+475,Male,Married,1,1,4,2725,21630,24,Permannent,1,2,3,3,6,5,Australia,5
+476,Male,Married,2,1,2,6272,7428,26,Permannent,3,1,5,4,5,3,Australia,5
+477,Male,Married,1,1,2,2127,9100,24,Permannent,1,4,2,3,1,0,Australia,5
+478,Male,Married,5,1,2,18200,7999,50,Permannent,27,1,2,3,32,5,Australia,5
+479,Male,Married,1,1,3,2096,26376,25,Permannent,2,2,1,3,7,4,Australia,5
+480,Female,Married,1,1,3,2886,14168,24,Permannent,1,1,4,3,6,3,Australia,5
+481,Male,Married,1,1,1,2033,14470,30,Permannent,7,2,2,4,1,0,Australia,5
+482,Male,Married,1,1,4,3622,22794,34,Permannent,11,2,3,3,6,5,Australia,5
+483,Male,Divorced,2,1,1,4233,11512,31,Permannent,8,2,2,1,3,1,Australia,5
+484,Male,Single,2,1,4,3681,14004,35,Permannent,12,1,3,3,3,2,Australia,5
+485,Male,Divorced,2,1,4,5460,6219,31,Permannent,8,1,4,4,7,7,Australia,5
+486,Female,Divorced,1,1,3,2187,5013,27,Permannent,4,1,5,2,5,3,Australia,5
+487,Male,Married,2,1,3,9602,3010,37,Permannent,14,4,3,2,3,0,Australia,5
+488,Female,Single,1,1,2,2836,11757,20,Permannent,-3,4,0,4,1,0,Australia,5
+489,Female,Married,2,1,4,4089,5718,42,Permannent,19,3,4,3,10,2,Australia,5
+490,Male,Divorced,4,1,4,16627,2671,43,Permannent,20,2,3,2,1,0,Australia,5
+491,Female,Single,1,1,1,2619,14561,38,Permannent,15,3,3,2,0,0,Australia,5
+492,Male,Divorced,2,1,3,5679,19627,43,Permannent,20,4,3,3,8,7,Australia,5
+493,Female,Married,4,1,1,15402,17997,48,Permannent,25,4,3,1,3,2,Australia,5
+494,Female,Single,2,1,3,5985,26894,44,Permannent,21,1,1,4,2,2,Australia,5
+495,Female,Divorced,1,1,3,2579,2912,34,Permannent,11,3,3,3,8,2,Australia,5
+496,Male,Divorced,1,1,1,3041,16346,27,Permannent,4,3,3,3,4,3,Australia,5
+497,Male,Single,1,1,3,3447,24444,21,Permannent,-2,3,2,3,3,2,Australia,5
+498,Male,Married,5,1,4,19513,9358,44,Permannent,21,4,2,4,2,2,Australia,5
+499,Male,Married,1,1,3,2773,12145,22,Permannent,-1,1,3,3,2,2,Australia,5
+500,Male,Divorced,2,1,3,7104,20431,33,Permannent,10,3,3,3,5,0,Australia,5
+501,Female,Married,2,1,4,6322,18089,32,Permannent,9,1,2,2,6,4,Australia,5
+502,Female,Divorced,1,1,3,2083,22653,30,Permannent,7,3,2,3,1,0,Australia,5
+503,Female,Single,2,1,1,8381,7507,53,Permannent,30,4,2,4,14,7,Australia,5
+504,Male,Married,1,1,4,2691,7660,34,Permannent,11,2,4,2,10,9,Australia,5
+505,Female,Married,2,1,1,4286,5630,45,Permannent,22,1,4,3,1,1,Australia,5
+506,Female,Married,1,1,4,2659,17759,26,Permannent,3,3,2,3,3,2,Australia,5
+507,Male,Married,3,1,3,9434,9606,37,Permannent,14,3,2,3,10,7,Australia,5
+508,Female,Married,2,1,3,5561,3487,29,Permannent,6,2,5,2,6,0,Australia,5
+509,Male,Single,2,1,4,6646,19368,35,Permannent,12,2,3,3,17,11,Australia,5
+510,Male,Divorced,2,1,4,7725,5335,33,Permannent,10,3,2,1,13,11,Australia,5
+511,Male,Married,3,1,2,10725,6729,54,Permannent,31,3,1,4,9,7,Australia,5
+512,Male,Divorced,2,1,2,8847,13934,36,Permannent,13,2,2,3,3,2,Australia,5
+513,Male,Single,1,1,4,2045,15174,27,Permannent,4,1,0,3,4,2,Australia,5
+514,Male,Single,1,1,3,1009,26999,20,Permannent,-3,4,5,3,1,0,Australia,5
+515,Male,Single,1,1,1,3348,3164,33,Permannent,10,1,3,3,10,8,Australia,5
+516,Male,Married,1,1,3,1281,16900,35,Permannent,12,3,3,3,1,0,Australia,5
+517,Male,Married,1,1,1,2819,8544,23,Permannent,0,1,3,4,3,2,Australia,5
+518,Male,Married,2,1,2,4851,15678,25,Permannent,2,4,4,3,3,2,Australia,5
+519,Female,Single,2,1,4,4028,7791,38,Permannent,15,4,2,3,7,7,Australia,5
+520,Male,Divorced,1,1,4,2720,18959,29,Permannent,6,2,5,3,10,7,Australia,5
+521,Male,Married,2,1,2,8120,18597,48,Permannent,25,2,3,3,2,2,Australia,5
+522,Female,Divorced,2,1,4,4647,16673,27,Permannent,4,4,3,3,6,5,Australia,6
+523,Male,Single,1,1,4,4680,15232,37,Permannent,14,4,2,3,1,0,Australia,6
+524,Male,Married,1,1,3,3221,3297,50,Permannent,27,4,3,3,20,8,Australia,6
+525,Female,Single,3,1,2,8621,17654,34,Permannent,11,4,3,4,8,7,Australia,6
+526,Female,Single,2,1,3,4577,24785,24,Permannent,1,1,3,3,2,2,United States,6
+527,Female,Single,2,1,3,4553,20978,39,Permannent,16,4,4,3,20,7,United States,6
+528,Male,Single,2,1,4,5396,21703,32,Permannent,9,4,2,2,10,7,United States,6
+529,Male,Married,2,1,3,6796,23452,50,Permannent,27,2,4,3,4,3,United States,6
+530,Female,Single,2,1,4,7625,19383,38,Permannent,15,2,4,2,9,7,United States,6
+531,Female,Married,3,1,1,7412,6009,27,Permannent,4,3,3,3,9,7,United States,6
+532,Female,Single,3,1,4,11159,19373,32,Permannent,9,3,6,3,7,7,United States,6
+533,Male,Single,2,1,1,4960,11825,47,Permannent,24,4,2,3,7,7,United States,6
+534,Male,Married,3,1,1,10475,23772,40,Permannent,17,4,2,3,18,13,United States,6
+535,Male,Married,4,1,3,14814,13514,53,Permannent,30,3,3,3,5,1,United States,6
+536,Male,Divorced,5,1,4,19141,8861,41,Permannent,18,2,2,2,21,6,United States,6
+537,Male,Single,2,1,1,5405,11924,60,Permannent,37,1,1,3,2,2,United States,6
+538,Male,Divorced,3,1,1,8793,4809,27,Permannent,4,4,4,2,9,7,United States,6
+539,Male,Married,5,1,3,19189,19562,41,Permannent,18,4,3,3,22,7,United States,6
+540,Male,Married,1,1,2,3875,9983,50,Permannent,27,4,2,3,2,2,United States,6
+541,Female,Single,1,1,2,2216,3872,28,Permannent,5,1,4,3,7,7,United States,6
+542,Female,Married,3,1,1,11713,20335,36,Permannent,13,1,2,3,8,7,United States,6
+543,Female,Single,3,1,3,7861,15397,38,Permannent,15,3,4,4,1,0,United States,6
+544,Male,Single,1,1,3,3708,2104,44,Permannent,21,1,5,3,5,2,United States,6
+545,Female,Divorced,4,1,3,13770,10225,47,Permannent,24,4,2,2,22,2,United States,6
+546,Male,Divorced,2,1,4,5304,25275,30,Contractual,7,3,2,2,8,7,United States,6
+547,Male,Single,1,1,3,2642,2755,29,Contractual,6,3,6,3,1,0,United States,6
+548,Male,Divorced,1,1,3,2759,20366,42,Contractual,19,3,2,3,2,2,United States,6
+549,Male,Married,2,1,4,6804,23683,43,Contractual,20,4,5,3,2,2,United States,6
+550,Female,Single,2,1,3,6142,7360,34,Contractual,11,2,2,3,5,1,United States,6
+551,Male,Married,1,1,1,2500,4344,23,Contractual,0,2,2,4,4,3,United States,6
+552,Female,Married,2,1,2,6389,18767,39,Contractual,16,3,3,1,8,3,United States,6
+553,Male,Married,4,1,4,11103,20420,56,Contractual,33,3,1,2,10,7,United States,6
+554,Female,Single,1,1,4,2342,22929,40,Contractual,17,4,2,2,4,2,United States,6
+555,Female,Single,2,1,1,6811,23398,27,Contractual,4,4,2,1,7,6,United States,6
+556,Male,Divorced,1,1,2,2297,17967,29,Contractual,6,4,2,3,2,2,United States,6
+557,Male,Single,2,1,4,2450,10919,53,Contractual,30,4,4,3,2,2,United States,6
+558,Female,Divorced,2,1,1,5093,4761,35,Contractual,12,4,2,4,1,0,United States,6
+559,Male,Married,2,1,4,5309,21146,32,Contractual,9,1,2,3,10,8,United States,6
+560,Male,Married,1,1,3,3057,20471,38,Contractual,15,4,0,1,1,0,United States,6
+561,Female,Divorced,2,1,1,5121,4187,34,Contractual,11,2,3,3,0,0,United States,6
+562,Male,Married,4,1,1,16856,10084,52,Contractual,29,3,3,4,34,6,United States,6
+563,Male,Single,1,1,4,2686,5207,33,Contractual,10,4,2,2,10,9,United States,6
+564,Female,Single,2,1,4,6180,22807,25,Contractual,2,3,5,2,6,5,United States,6
+565,Male,Single,2,1,3,6632,12388,45,Contractual,22,2,3,3,8,7,United States,6
+566,Male,Single,1,1,3,3505,19630,23,Contractual,0,1,3,3,2,2,United States,6
+567,Female,Single,2,1,3,6397,10339,47,Contractual,24,2,2,3,5,4,United States,6
+568,Male,Single,2,1,4,6274,18686,34,Contractual,11,4,5,3,6,5,United States,6
+569,Male,Married,5,1,1,19859,21199,55,Contractual,32,4,2,3,5,2,United States,6
+570,Male,Single,3,1,1,7587,14229,36,Contractual,13,1,1,3,10,7,United States,6
+571,Male,Married,1,1,4,4258,26589,52,Contractual,29,4,3,3,4,3,United States,6
+572,Female,Divorced,1,1,4,4364,5288,26,Contractual,3,1,2,3,2,2,United States,6
+573,Female,Married,2,1,3,4335,25549,29,Contractual,6,2,3,2,8,7,United States,6
+574,Male,Single,2,1,1,5326,3064,26,Contractual,3,4,2,2,4,3,United States,6
+575,Female,Single,1,1,4,3280,13551,34,Contractual,11,2,2,3,4,2,United States,6
+576,Female,Divorced,2,1,1,5485,22670,54,Contractual,31,4,4,3,5,3,United States,6
+577,Male,Married,2,1,4,4342,24008,27,Contractual,4,3,3,3,4,2,United States,6
+578,Female,Divorced,1,1,1,2782,19905,37,Contractual,14,4,3,2,5,3,United States,6
+579,Female,Single,2,1,1,5980,26085,38,Contractual,15,1,2,3,15,7,United States,6
+580,Female,Single,1,1,1,4381,7530,34,Contractual,11,3,3,3,6,5,United States,6
+581,Female,Married,1,1,4,2572,20317,35,Contractual,12,1,1,2,3,2,United States,6
+582,Male,Married,1,1,3,3833,24375,30,Contractual,7,4,2,3,2,2,United States,6
+583,Female,Married,2,1,2,4244,9931,40,Contractual,17,3,2,3,8,7,United States,6
+584,Female,Married,2,1,1,6500,13305,34,Contractual,11,3,1,3,3,2,United States,6
+585,Male,Divorced,5,1,4,18430,16225,42,Contractual,19,2,4,2,24,7,United States,6
+586,Male,Married,1,1,1,1601,3445,23,Contractual,0,3,2,3,0,0,United States,6
+587,Male,Divorced,1,1,2,2694,26551,24,Contractual,1,3,4,3,1,0,United States,6
+588,Female,Married,2,1,3,3149,21821,52,Contractual,29,4,3,3,5,2,United States,6
+589,Male,Married,4,1,3,17639,6881,50,Contractual,27,3,3,3,4,3,United States,6
+590,Female,Married,1,1,1,2319,6689,29,Contractual,6,2,1,3,1,0,United States,6
+591,Male,Married,3,1,3,11691,25995,33,Contractual,10,3,3,4,13,9,United States,6
+592,Female,Single,2,1,1,5324,26507,33,Contractual,10,1,3,3,3,2,United States,6
+593,Female,Married,4,1,4,16752,12982,47,Contractual,24,3,3,2,26,14,United States,6
+594,Female,Married,2,1,2,5228,23361,36,Contractual,13,3,2,3,9,7,United States,6
+595,Male,Married,1,1,3,2700,23779,29,Contractual,6,3,3,3,10,7,United States,6
+596,Male,Single,5,1,2,19246,25761,58,Contractual,35,4,2,3,31,15,United States,6
+597,Female,Single,1,1,3,2506,13301,35,Contractual,12,4,0,3,2,2,United States,6
+598,Female,Married,2,1,4,6062,4051,42,Contractual,19,4,4,3,4,3,United States,6
+599,Male,Single,1,1,3,4382,16374,28,Contractual,5,3,3,2,2,2,United States,6
+600,Male,Married,1,1,2,2143,25527,36,Contractual,13,3,2,3,5,2,United States,6
+601,Female,Married,2,1,3,6162,19124,32,Contractual,9,3,3,3,14,13,United States,6
+602,Male,Single,2,1,3,5094,11983,40,Contractual,17,1,6,3,1,0,United States,6
+603,Female,Single,2,1,4,6877,20234,30,Contractual,7,3,4,2,0,0,United States,6
+604,Female,Single,1,1,3,2274,6153,45,Contractual,22,2,3,3,1,0,United States,6
+605,Male,Married,2,1,2,4434,11806,42,Contractual,19,2,3,2,9,8,United States,6
+606,Male,Divorced,2,1,1,6288,4284,38,Contractual,15,1,3,2,4,3,United States,6
+607,Female,Single,1,1,4,2553,8306,34,Contractual,11,3,3,3,5,2,United States,6
+608,Female,Married,3,1,4,7654,5860,49,Contractual,26,3,3,4,9,8,United States,6
+609,Male,Single,2,1,4,5160,21519,55,Contractual,32,3,3,2,9,7,United States,6
+610,Male,Married,4,1,1,17159,5200,43,Contractual,20,2,3,3,4,1,United States,6
+611,Male,Divorced,3,1,4,12808,8842,27,Contractual,4,3,3,3,9,8,United States,6
+612,Male,Single,3,1,3,10221,18869,35,Contractual,12,3,3,4,8,5,United States,6
+613,Female,Married,2,1,2,4779,3698,28,Contractual,5,2,2,3,8,7,United States,6
+614,Male,Married,1,1,4,3737,2243,34,Contractual,11,3,1,1,3,2,United States,6
+615,Female,Married,1,1,3,2366,20898,26,Contractual,3,3,2,3,8,7,United States,6
+616,Male,Married,1,1,4,1706,16571,27,Contractual,4,4,6,2,0,0,United States,6
+617,Female,Married,4,1,3,16307,5594,51,Contractual,28,1,2,2,20,6,United States,6
+618,Male,Single,2,1,2,5933,5197,44,Contractual,21,4,2,2,5,2,United States,6
+619,Male,Single,1,1,1,3424,21632,25,Contractual,2,1,3,2,4,3,United States,6
+620,Male,Divorced,2,1,1,4037,21816,33,Contractual,10,1,5,3,9,8,United States,6
+621,Female,Single,1,1,1,2559,17852,35,Contractual,12,3,3,2,6,5,United States,6
+622,Male,Married,2,1,4,6201,2823,36,Contractual,13,2,1,2,18,14,United States,6
+623,Male,Divorced,2,1,4,4403,9250,32,Contractual,9,2,3,2,5,2,United States,6
+624,Male,Divorced,1,1,4,3761,2373,30,Contractual,7,2,3,2,5,4,United States,6
+625,Female,Married,3,1,4,10934,20715,53,Contractual,30,1,3,3,5,2,United States,6
+626,Male,Divorced,3,1,1,10761,19239,45,Contractual,22,4,2,3,5,4,United States,6
+627,Female,Married,2,1,3,5175,22162,32,Contractual,9,3,3,2,5,3,United States,6
+628,Female,Married,4,1,4,13826,19028,52,Contractual,29,3,3,3,9,8,United States,6
+629,Male,Divorced,2,1,3,6334,24558,37,Contractual,14,4,2,3,1,0,United States,6
+630,Male,Divorced,1,1,4,4936,23965,28,Contractual,5,2,6,3,5,1,United States,6
+631,Male,Married,2,1,4,4775,19146,22,Contractual,-1,4,2,1,2,2,United States,6
+632,Male,Married,1,1,4,2818,5044,44,Contractual,21,1,2,2,3,2,United States,6
+633,Male,Single,1,1,4,2515,9068,42,Contractual,19,2,2,3,2,1,United States,6
+634,Male,Married,1,1,1,2342,8635,36,Contractual,13,1,3,3,5,4,United States,6
+635,Male,Married,2,1,1,4194,14363,25,Contractual,2,3,3,3,5,3,United States,6
+636,Female,Married,3,1,3,10685,23457,35,Contractual,12,4,2,3,17,14,United States,6
+637,Female,Divorced,1,1,2,2022,16612,35,Contractual,12,4,3,2,10,2,United States,6
+638,Male,Divorced,1,1,4,2314,9148,32,Contractual,9,4,2,3,3,0,United States,6
+639,Male,Married,2,1,1,4256,18154,25,Contractual,2,3,1,4,5,2,United States,6
+640,Female,Married,1,1,1,3580,10554,49,Contractual,26,3,2,3,4,2,United States,6
+641,Male,Married,1,1,4,3162,10778,24,Contractual,1,1,2,2,5,2,United States,6
+642,Male,Married,2,1,2,6524,8891,32,Contractual,9,2,3,3,10,8,United States,6
+643,Male,Married,1,1,2,2899,12102,38,Contractual,15,2,3,3,2,2,United States,6
+644,Female,Married,2,1,4,5231,23726,42,Contractual,19,3,1,2,5,3,United States,6
+645,Male,Married,1,1,4,2356,14871,31,Contractual,8,4,2,3,6,4,United States,6
+646,Female,Divorced,1,1,3,2800,23522,29,Contractual,6,2,3,3,3,2,United States,6
+647,Male,Married,4,1,4,11836,22789,53,Contractual,30,1,3,3,2,0,United States,6
+648,Male,Married,3,1,2,10903,9129,35,Contractual,12,4,2,3,13,10,United States,6
+649,Female,Married,1,1,4,2973,21222,37,Contractual,14,3,3,3,5,4,United States,6
+650,Female,Single,4,1,4,14275,20206,53,Contractual,30,4,0,3,12,9,United States,6
+651,Female,Married,2,1,4,5562,21782,43,Contractual,20,4,2,2,5,2,United States,6
+652,Female,Married,2,1,4,4537,17783,47,Contractual,24,3,2,3,7,6,United States,6
+653,Male,Single,3,1,2,7642,4814,37,Contractual,14,1,2,3,10,0,United States,6
+654,Male,Divorced,4,1,1,17924,4544,50,Contractual,27,1,3,3,31,6,United States,6
+655,Female,Married,2,1,4,5204,7790,39,Contractual,16,4,2,3,5,4,United States,6
+656,Male,Divorced,1,1,2,2277,22650,33,Contractual,10,4,4,4,4,3,United States,6
+657,Male,Single,1,1,4,2795,18016,32,Contractual,9,1,2,1,1,0,United States,6
+658,Female,Divorced,1,1,4,2532,6054,29,Contractual,6,1,5,3,4,3,United States,6
+659,Male,Married,1,1,1,2559,7508,44,Contractual,21,2,0,3,8,7,United States,6
+660,Male,Single,2,1,4,4908,24252,28,Contractual,5,1,3,3,4,2,United States,6
+661,Male,Divorced,1,1,4,2380,13384,58,Contractual,35,4,3,2,1,0,United States,6
+662,Female,Divorced,2,1,2,4765,23814,43,Contractual,20,1,2,4,1,0,United States,6
+663,Female,Single,1,1,3,2044,22052,20,Contractual,-3,3,3,2,2,2,United States,6
+664,Female,Single,1,1,4,2693,8870,21,Contractual,-2,4,3,2,1,0,United States,6
+665,Male,Married,2,1,4,6586,4821,36,Contractual,13,3,2,2,16,8,United States,6
+666,Female,Single,1,1,4,3294,13137,47,Contractual,24,4,3,2,3,2,United States,6
+667,Female,Married,2,1,3,4171,10022,22,Contractual,-1,2,3,4,3,2,United States,6
+668,Female,Divorced,1,1,4,2778,17725,41,Contractual,18,2,1,2,7,7,United States,6
+669,Female,Divorced,1,1,3,2377,9834,28,Contractual,5,3,2,3,2,2,United States,6
+670,Male,Married,1,1,1,2404,4303,39,Contractual,16,4,2,1,2,2,United States,6
+671,Female,Single,1,1,3,2318,17808,27,Contractual,4,2,2,3,1,1,United States,6
+672,Male,Divorced,1,1,2,2008,6896,34,Contractual,11,2,3,3,1,0,United States,6
+673,Female,Single,2,1,3,6244,7824,42,Contractual,19,3,6,3,5,4,United States,6
+674,Male,Single,1,1,1,2799,3339,33,Contractual,10,3,1,3,3,2,United States,6
+675,Female,Divorced,3,1,2,10552,9255,58,Contractual,35,3,3,3,6,0,United States,6
+676,Male,Married,1,1,3,2329,11737,31,Contractual,8,2,2,4,7,7,United States,6
+677,Female,Married,2,1,4,4014,19170,35,Contractual,12,4,2,1,10,6,United States,6
+678,Female,Married,3,1,2,7403,22477,49,Contractual,26,1,3,2,26,9,United States,6
+679,Male,Married,1,1,3,2259,5543,48,Contractual,25,4,2,2,0,0,United States,6
+680,Female,Married,2,1,3,6932,24406,31,Contractual,8,4,2,2,9,8,United States,6
+681,Male,Single,1,1,4,4678,23293,36,Contractual,13,2,6,3,6,2,United States,6
+682,Female,Married,3,1,1,13582,16292,38,Contractual,15,4,3,3,15,12,United States,6
+683,Female,Married,1,1,2,2332,3974,32,Contractual,9,3,3,3,3,0,United States,6
+684,Male,Married,1,1,2,2413,18798,25,Contractual,2,3,2,3,1,0,United States,6
+685,Male,Divorced,3,1,2,9705,20652,40,Contractual,17,1,2,2,1,0,United States,6
+686,Male,Single,2,1,1,4294,11148,26,Contractual,3,3,2,3,7,7,United States,6
+687,Male,Single,1,1,1,4721,3119,41,Contractual,18,4,3,3,18,13,United States,6
+688,Male,Single,1,1,3,2519,12287,36,Contractual,13,3,6,3,11,8,United States,6
+689,Male,Single,1,1,2,2121,9947,19,Contractual,-4,4,3,4,1,0,United States,6
+690,Male,Single,1,1,1,2973,13008,20,Contractual,-3,1,2,3,1,0,United States,6
+691,Female,Married,2,1,4,5855,17369,31,Contractual,8,4,2,1,9,7,United States,6
+692,Male,Divorced,1,1,2,3617,25063,40,Contractual,17,4,2,3,1,1,United States,6
+693,Female,Married,2,1,1,6725,13554,32,Contractual,9,3,2,4,8,7,United States,6
+694,Male,Married,3,1,4,10325,5518,36,Contractual,13,3,6,3,16,7,United States,6
+695,Female,Single,2,1,4,6949,12291,33,Contractual,10,2,3,3,5,0,United States,6
+696,Male,Married,3,1,3,10609,14922,37,Contractual,14,1,2,1,14,1,United States,6
+697,Male,Married,2,1,2,4447,23163,45,Contractual,22,3,5,2,9,7,United States,6
+698,Female,Married,1,1,4,2157,18203,29,Contractual,6,3,5,3,3,1,United States,6
+699,Female,Married,2,1,3,4601,6179,35,Contractual,12,3,3,3,5,2,United States,6
+700,Male,Married,4,1,4,17099,13829,52,Contractual,29,4,2,2,9,8,United States,6
+701,Male,Single,1,1,3,2479,26227,58,Contractual,35,4,4,3,1,0,United States,6
+702,Male,Divorced,4,1,3,14852,13938,53,Contractual,30,3,3,4,17,13,United States,6
+703,Male,Divorced,3,1,3,7264,9977,30,Contractual,7,3,2,4,8,4,United States,6
+704,Female,Single,2,1,4,5666,19899,38,Contractual,15,3,1,3,5,3,United States,6
+705,Male,Divorced,3,1,4,7823,6812,35,Contractual,12,4,2,3,10,9,United States,6
+706,Male,Single,3,1,3,7880,2560,39,Contractual,16,1,3,3,8,7,United States,6
+707,Female,Single,4,1,2,13194,17071,40,Contractual,17,2,2,2,1,0,United States,6
+708,Male,Divorced,2,1,3,5067,6759,47,Contractual,24,3,3,4,19,10,United States,6
+709,Male,Divorced,2,1,4,5079,25952,36,Contractual,13,1,3,3,7,7,United States,6
+710,Male,Single,1,1,1,2321,10322,31,Contractual,8,3,0,3,3,2,United States,6
+711,Male,Single,4,1,3,17444,20489,33,Contractual,10,4,2,3,10,8,United States,6
+712,Female,Single,1,1,1,2404,11479,29,Contractual,6,4,5,3,0,0,United States,6
+713,Female,Single,1,1,4,3452,17241,33,Contractual,10,2,4,3,3,2,United States,6
+714,Female,Divorced,1,1,4,2270,11005,45,Contractual,22,4,2,3,5,3,United States,6
+715,Male,Divorced,4,1,4,17399,6615,50,Contractual,27,4,1,2,5,4,United States,6
+716,Female,Married,2,1,2,5488,20161,33,Contractual,10,3,2,3,6,5,United States,6
+717,Male,Divorced,5,1,3,19419,3735,41,Contractual,18,1,2,4,18,16,United States,6
+718,Female,Married,1,1,2,2811,12086,27,Contractual,4,3,2,3,2,2,United States,6
+719,Male,Married,2,1,1,3633,14039,45,Contractual,22,4,2,3,9,8,United States,6
+720,Female,Single,2,1,4,4163,8571,47,Contractual,24,4,0,3,9,0,United States,6
+721,Female,Married,1,1,3,2132,11539,30,Contractual,7,1,2,3,5,2,United States,6
+722,Male,Married,4,1,3,13973,4161,50,Contractual,27,4,2,3,12,11,United States,6
+723,Male,Married,1,1,3,2684,12127,38,Contractual,15,3,0,2,2,1,United States,6
+724,Male,Divorced,3,1,3,10845,24208,46,Contractual,23,4,3,3,8,7,United States,6
+725,Female,Divorced,2,1,3,4377,24117,24,Contractual,1,4,6,3,4,2,United States,6
+726,Male,Divorced,1,1,2,3743,10074,35,Contractual,12,3,2,1,4,2,United States,6
+727,Female,Married,2,1,1,4148,11275,31,Contractual,8,3,1,3,4,3,United States,6
+728,Male,Single,1,1,4,1051,13493,18,Contractual,-5,2,2,3,0,0,United States,6
+729,F,Married,3,1,3,10739,13943,54,Contractual,31,3,2,3,10,7,United States,6
+730,F,Divorced,3,1,3,10388,6975,35,Contractual,12,3,3,2,16,10,United States,6
+731,F,Married,3,1,1,11416,17802,30,Contractual,7,2,4,2,8,7,United States,6
+732,F,Single,1,1,1,2600,18275,20,Contractual,-3,4,2,3,1,0,United States,6
+733,F,Single,1,1,2,2422,25725,30,Contractual,7,2,3,3,3,2,United States,6
+734,Male,Married,2,1,4,5472,3334,26,Contractual,3,4,2,3,8,7,United States,6
+735,Male,Married,1,1,1,2451,6881,22,Contractual,-1,2,3,2,4,3,United States,6
+736,Male,Single,2,1,3,4240,13119,48,Contractual,25,1,0,3,2,2,United States,6
+737,Male,Single,3,1,3,10999,22245,48,Contractual,25,3,3,3,15,11,United States,6
+738,Female,Single,2,1,3,5003,23371,41,Contractual,18,4,6,3,2,2,United States,6
+739,Female,Married,4,1,4,12742,7060,39,Contractual,16,4,3,3,21,6,United States,6
+740,Female,Married,2,1,4,4227,4658,27,Contractual,4,1,2,3,3,2,United States,6
+741,Male,Divorced,1,1,4,3917,9541,35,Contractual,12,2,4,2,3,2,United States,6
+742,Male,Married,5,1,3,18303,7770,42,Contractual,19,4,3,4,1,0,United States,6
+743,Male,Married,1,1,4,2380,20165,50,Contractual,27,1,5,3,1,0,United States,6
+744,Female,Single,4,1,4,13726,21829,59,Contractual,36,3,4,3,5,3,United States,6
+745,Female,Married,2,1,2,4777,14382,37,Contractual,14,1,2,1,1,0,United States,6
+746,Male,Married,2,1,2,6385,12992,55,Contractual,32,3,3,3,8,7,United States,6
+747,Female,Divorced,5,1,3,19973,20284,41,Contractual,18,2,3,3,21,16,United States,6
+748,Male,Single,2,1,4,6861,4981,38,Contractual,15,2,1,3,1,0,United States,6
+749,Male,Single,2,1,1,4969,21813,26,Contractual,3,2,6,3,2,2,United States,6
+750,Female,Married,5,1,4,19845,25846,52,Contractual,29,1,3,3,32,14,United States,6
+751,Female,Married,4,1,4,13320,11737,44,Contractual,21,4,2,3,12,11,United States,6
+752,Female,Married,2,1,3,6347,24920,50,Contractual,27,4,3,3,18,7,United States,6
+753,Female,Single,1,1,1,2743,8269,36,Contractual,13,3,1,3,17,13,United States,6
+754,Female,Single,3,1,1,10880,5083,39,Contractual,16,4,2,3,21,6,United States,6
+755,Female,Single,1,1,4,2342,21437,33,Contractual,10,2,2,2,2,2,United States,6
+756,Female,Married,4,1,4,17650,5404,45,Contractual,22,4,4,4,9,3,United States,6
+757,Female,Single,1,1,3,4025,11135,32,Contractual,9,4,2,3,8,7,United States,6
+758,Male,Divorced,2,1,4,9725,12278,34,Contractual,11,2,2,2,15,1,United States,6
+759,Male,Married,3,1,4,11904,11038,59,Contractual,36,2,1,1,6,4,United States,6
+760,Male,Single,1,1,2,2177,8318,45,Contractual,22,2,3,3,6,3,United States,6
+761,Female,Married,3,1,2,7525,23537,53,Contractual,30,3,2,3,15,7,United States,6
+762,Male,Divorced,2,1,3,4834,7858,36,Contractual,13,1,3,2,1,0,United States,6
+763,Male,Married,1,1,1,2042,15346,26,Contractual,3,1,2,3,3,2,United States,6
+764,Female,Married,1,1,3,2220,18410,34,Contractual,11,3,2,3,1,1,United States,6
+765,Male,Married,1,1,2,1052,23384,28,Contractual,5,4,5,3,1,0,United States,6
+766,Male,Married,1,1,3,2821,2997,38,Contractual,15,3,2,3,2,2,United States,6
+767,Male,Married,5,1,3,19237,12853,50,Contractual,27,2,2,2,8,1,United States,6
+768,Female,Single,2,1,2,4107,13848,37,Contractual,14,4,3,2,4,3,United States,6
+769,Male,Married,2,1,1,8396,22217,40,Contractual,17,3,3,2,7,7,United States,6
+770,Female,Divorced,1,1,3,2007,25265,26,Contractual,3,1,5,3,5,3,United States,6
+771,Male,Divorced,5,1,4,19627,21445,46,Contractual,23,4,0,3,2,2,United States,6
+772,Female,Married,3,1,3,10686,8392,54,Contractual,31,3,4,3,9,4,United States,6
+773,Female,Married,1,1,3,2942,12154,56,Contractual,33,1,4,3,5,4,United States,6
+774,Female,Single,3,1,4,8858,15669,36,Contractual,13,4,2,2,14,8,United States,6
+775,Male,Single,4,1,1,16756,17323,55,Contractual,32,3,3,4,9,7,United States,6
+776,Male,Divorced,3,1,4,10798,5268,43,Contractual,20,3,5,3,1,0,United States,6
+777,Female,Single,1,1,4,2323,17205,20,Contractual,-3,4,3,3,2,2,United States,6
+778,Female,Single,1,1,1,1416,17258,21,Contractual,-2,3,6,2,1,0,United States,6
+779,Female,Divorced,2,1,1,4615,21029,46,Contractual,23,4,2,3,16,13,United States,6
+780,Male,Married,1,1,3,2461,10332,51,Contractual,28,1,2,4,10,0,United States,6
+781,Male,Single,3,1,1,8722,12355,28,Contractual,5,2,2,2,10,7,United States,6
+782,Male,Married,1,1,1,3955,11141,26,Contractual,3,1,2,3,5,3,United States,6
+783,Male,Married,2,1,1,9957,9096,30,Contractual,7,3,1,2,6,2,United States,6
+784,Female,Married,1,1,3,3376,18863,41,Contractual,18,2,3,3,10,6,United States,6
+785,Female,Married,3,1,3,8823,24608,38,Contractual,15,3,4,2,19,9,United States,6
+786,Male,Married,3,1,4,10322,26542,40,Contractual,17,1,6,3,11,10,United States,6
+787,Male,Married,1,1,3,4621,5869,27,Contractual,4,1,4,3,3,2,United States,6
+788,Male,Married,3,1,2,10976,15813,55,Contractual,32,4,4,3,3,2,United States,6
+789,Female,Single,2,1,3,3660,7909,28,Contractual,5,3,4,4,8,7,United States,6
+790,Male,Married,3,1,1,10482,2326,44,Contractual,21,2,1,3,20,6,United States,6
+791,Male,Divorced,3,1,4,7119,21214,33,Contractual,10,4,2,3,3,2,United States,6
+792,Male,Single,3,1,1,9582,10333,35,Contractual,12,4,2,3,8,7,United States,6
+793,Female,Single,2,1,3,4508,3129,33,Contractual,10,1,4,3,13,7,United States,6
+794,Male,Divorced,1,1,3,2207,22482,28,Contractual,5,1,5,2,4,2,United States,6
+795,Male,Single,2,1,4,7756,22266,34,Contractual,11,1,1,2,6,2,United States,6
+796,Female,Divorced,2,1,4,6694,24223,37,Contractual,14,4,5,3,1,0,United States,6
+797,Male,Married,1,1,4,3691,4605,25,Contractual,2,4,3,4,7,7,United States,6
+798,Male,Divorced,1,1,3,2377,19373,26,Contractual,3,1,0,2,1,1,United States,6
+799,Male,Single,1,1,2,2313,2993,33,Contractual,10,1,0,3,2,2,United States,6
+800,Male,Married,4,1,1,17665,14399,42,Contractual,19,4,3,3,22,6,United States,6
+801,Male,Divorced,1,1,2,2596,7160,28,Contractual,5,1,2,3,1,0,United States,6
+802,Male,Single,2,1,3,4728,17251,50,Contractual,27,4,4,3,0,0,United States,6
+803,Female,Married,2,1,2,4302,13401,33,Contractual,10,4,3,3,3,2,United States,6
+804,Male,Married,1,1,4,2979,22478,34,Contractual,11,3,2,3,0,0,United States,6
+805,Male,Single,4,1,4,16885,16154,48,Contractual,25,1,3,2,5,4,United States,4
+806,Female,Married,2,1,3,5593,17970,45,Contractual,22,2,2,3,15,10,United States,4
+807,Male,Single,3,1,2,10445,15322,52,Contractual,29,2,4,3,8,6,United States,4
+808,Male,Divorced,3,1,3,8740,5569,38,Contractual,15,3,2,3,8,7,United States,4
+809,Female,Divorced,1,1,4,2514,26968,29,Contractual,6,3,1,3,7,5,United States,4
+810,Female,Divorced,3,1,2,7655,8039,28,Contractual,5,4,3,2,9,7,United States,4
+811,Male,Married,4,1,3,17465,15596,46,Contractual,23,1,3,3,12,9,United States,4
+812,Male,Single,3,1,2,7351,20619,38,Contractual,15,4,2,3,1,0,United States,4
+813,Female,Married,3,1,1,10820,11535,43,Contractual,20,3,1,3,8,7,United States,4
+814,Male,Divorced,4,1,4,12169,13547,39,Contractual,16,1,4,3,18,7,United States,4
+815,Male,Single,5,1,3,19626,17544,40,Contractual,17,3,2,4,20,7,United States,4
+816,Female,Single,1,1,2,2070,25326,21,Contractual,-2,4,6,4,2,2,United States,4
+817,Male,Single,2,1,2,6782,8770,39,Contractual,16,3,2,2,5,4,United States,4
+818,Male,Single,2,1,4,7779,23238,36,Contractual,13,1,0,3,11,9,United States,4
+819,Male,Married,1,1,4,2791,21981,31,Contractual,8,3,4,3,2,2,United States,4
+820,Male,Married,1,1,2,3201,19911,28,Contractual,5,1,2,1,5,3,United States,4
+821,Male,Divorced,2,1,4,4968,18500,35,Contractual,12,4,3,3,5,2,United States,4
+822,Male,Married,4,1,2,13120,11879,49,Contractual,26,4,3,3,9,8,United States,4
+823,Male,Single,2,1,3,4033,15834,34,Contractual,11,4,3,2,3,2,United States,4
+824,Female,Divorced,1,1,2,3291,17940,29,Contractual,6,4,2,2,7,5,United States,4
+825,Male,Single,2,1,4,4272,9558,42,Contractual,19,2,3,3,1,0,United States,4
+826,Male,Married,2,1,4,5056,17689,29,Contractual,6,2,2,2,10,7,United States,4
+827,Male,Married,1,1,3,2844,6004,38,Contractual,15,3,2,4,7,6,United States,4
+828,Male,Divorced,1,1,3,2703,22088,28,Contractual,5,3,2,3,3,1,United States,4
+829,Male,Single,1,1,3,1904,13556,18,Contractual,-5,3,0,3,0,0,United States,4
+830,Female,Single,2,1,1,8224,18385,33,Contractual,10,1,3,3,5,2,United States,4
+831,Male,Married,1,1,4,4766,9051,41,Contractual,18,2,4,3,1,0,United States,4
+832,Male,Married,1,1,3,2610,6233,31,Contractual,8,3,5,2,2,2,United States,4
+833,Female,Divorced,2,1,4,5731,17171,37,Contractual,14,3,2,3,6,2,United States,4
+834,Male,Married,1,1,3,2539,7950,27,Contractual,4,4,0,3,4,2,United States,4
+835,Female,Married,2,1,3,5714,5829,34,Contractual,11,2,3,2,6,5,United States,4
+836,Male,Single,1,1,3,4323,7108,35,Contractual,12,3,2,1,5,4,United States,4
+837,Female,Married,3,1,1,7336,11162,29,Contractual,6,4,3,1,11,8,United States,4
+838,Female,Single,3,1,3,13499,13782,40,Contractual,17,2,3,2,18,7,United States,4
+839,Male,Single,4,1,1,13758,2447,42,Contractual,19,3,2,2,21,9,United States,4
+840,Male,Single,2,1,1,5155,2253,42,Contractual,19,2,3,4,6,4,United States,4
+841,Male,Married,1,1,3,2258,16340,35,Contractual,12,4,2,3,8,0,United States,4
+842,Male,Single,1,1,2,3597,6409,24,Contractual,1,4,2,3,4,3,United States,4
+843,Female,Married,1,1,4,2515,22955,28,Contractual,5,3,4,2,1,1,United States,4
+844,Male,Married,1,1,4,4420,13421,26,Contractual,3,1,2,3,8,7,United States,4
+845,Male,Married,2,1,3,6578,2706,30,Contractual,7,3,3,3,10,3,United States,4
+846,Female,Married,2,1,4,4422,21203,40,Contractual,17,3,3,1,1,1,United States,4
+847,Male,Divorced,3,1,2,10274,19588,35,Contractual,12,3,2,4,7,7,United States,4
+848,Male,Single,2,1,1,5343,25755,34,Contractual,11,4,3,3,13,9,United States,4
+849,Male,Married,1,1,4,2376,26537,35,Contractual,12,4,2,4,2,2,United States,4
+850,Female,Single,2,1,3,5346,9489,43,Contractual,20,1,2,2,4,3,United States,4
+851,Female,Divorced,1,1,1,2827,14947,32,Contractual,9,3,3,3,1,0,United States,4
+852,Female,Divorced,5,1,1,19943,18575,56,Contractual,33,4,2,3,5,2,United States,4
+853,Female,Married,1,1,4,3131,26342,29,Contractual,6,2,5,3,10,8,United States,4
+854,Male,Single,1,1,1,2552,7172,19,Contractual,-4,3,4,3,1,1,United States,4
+855,Female,Married,1,1,3,4477,20100,45,Contractual,22,1,2,2,3,2,United States,4
+856,Female,Married,2,1,4,6474,9961,37,Contractual,14,4,2,2,14,8,United States,4
+857,Male,Single,1,1,3,3033,12828,20,Contractual,-3,1,2,2,2,2,United States,4
+858,Male,Single,1,1,3,2936,10826,44,Contractual,21,3,4,3,6,4,United States,4
+859,Female,Divorced,5,1,3,18606,18640,53,Contractual,30,4,6,3,7,7,United States,4
+860,Female,Married,1,1,4,2168,26933,29,Contractual,6,2,2,2,5,4,United States,4
+861,Male,Married,1,1,4,2853,4223,22,Contractual,-1,3,5,3,0,0,United States,4
+862,Female,Married,4,1,1,17048,24097,46,Contractual,23,3,2,3,26,15,United States,4
+863,Male,Single,1,1,3,2290,4279,44,Contractual,21,4,3,3,0,0,United States,4
+864,Male,Married,1,1,3,3600,8429,33,Contractual,10,2,2,3,5,4,United States,4
+865,Male,Divorced,1,1,1,2107,20293,41,Contractual,18,1,2,1,1,0,United States,4
+866,Male,Divorced,2,1,1,4115,13192,30,Contractual,7,3,3,3,4,3,United States,4
+867,Male,Married,2,1,2,4327,25440,40,Contractual,17,2,2,3,0,0,United States,4
+868,Female,Married,4,1,1,17856,9490,50,Contractual,27,4,3,3,2,2,United States,4
+869,Male,Married,1,1,1,3196,12449,28,Contractual,5,4,2,3,6,5,United States,4
+870,Male,Married,5,1,2,19081,10849,46,Contractual,23,4,2,3,4,2,United States,4
+871,Male,Married,2,1,1,8966,21026,35,Contractual,12,3,2,3,7,7,United States,4
+872,Female,Married,1,1,2,2210,3372,24,Contractual,1,4,3,1,1,0,United States,4
+873,Female,Married,2,1,3,4539,4905,33,Contractual,10,2,3,2,10,7,United States,4
+874,Male,Divorced,1,1,3,2741,6865,36,Contractual,13,3,4,3,7,7,United States,4
+875,Male,Divorced,2,1,3,3491,11309,30,Contractual,7,3,4,2,10,7,United States,4
+876,Male,Single,2,1,4,4541,7744,44,Contractual,21,4,3,3,20,11,United States,4
+877,Male,Single,1,1,4,2678,5050,20,Contractual,-3,3,2,3,2,1,United States,4
+878,Male,Divorced,2,1,4,7379,17433,46,Contractual,23,4,3,2,6,3,United States,4
+879,Male,Married,2,1,1,6272,12858,42,Contractual,19,4,3,4,4,3,United States,4
+880,Male,Divorced,2,1,4,5220,10893,60,Contractual,37,2,3,3,11,7,United States,4
+881,Female,Married,1,1,2,2743,7331,32,Contractual,9,3,2,3,2,2,United States,4
+882,Female,Single,2,1,3,4998,2338,32,Contractual,9,4,2,3,8,7,United States,4
+883,Female,Divorced,3,1,1,10252,4235,36,Contractual,13,3,2,3,7,7,United States,4
+884,Male,Married,1,1,4,2781,6311,33,Contractual,10,1,5,3,14,10,United States,4
+885,Female,Divorced,2,1,2,6852,11591,40,Contractual,17,2,2,4,5,1,United States,4
+886,Male,Single,2,1,4,4950,20623,25,Contractual,2,3,4,3,4,3,United States,4
+887,Male,Married,1,1,2,3579,9369,30,Contractual,7,4,2,3,11,9,United States,4
+888,Female,Married,3,1,1,13191,23281,42,Contractual,19,1,6,3,1,0,United States,4
+889,Female,Married,3,1,4,10377,13755,35,Contractual,12,3,6,2,13,2,United States,4
+890,Male,Married,1,1,1,2235,14377,27,Contractual,4,1,3,2,9,7,United States,4
+891,Female,Divorced,3,1,3,10502,9659,54,Contractual,31,4,2,1,5,4,United States,4
+892,Female,Married,1,1,4,2011,19982,44,Contractual,21,1,5,3,10,5,United States,4
+893,Female,Single,1,1,2,1859,6148,19,Contractual,-4,1,2,4,1,1,United States,4
+894,Female,Divorced,1,1,4,3760,5598,29,Contractual,6,1,5,3,3,2,United States,4
+895,Male,Married,4,1,4,17779,23474,54,Contractual,31,4,2,3,10,9,United States,4
+896,Male,Married,2,1,1,6833,17089,31,Contractual,8,3,2,2,6,5,United States,4
+897,Female,Single,2,1,1,6812,17198,31,Contractual,8,3,2,3,10,9,United States,4
+898,Female,Single,2,1,4,5171,16490,59,Contractual,36,3,2,3,6,1,United States,4
+899,Male,Married,5,1,4,19740,18625,43,Contractual,20,3,2,3,8,7,United States,4
+900,Male,Married,5,1,3,18711,12124,49,Contractual,26,1,2,4,1,0,United States,4
+901,Male,Married,1,1,2,3692,9256,36,Contractual,13,3,2,2,11,10,United States,4
+902,Male,Single,1,1,2,2559,16620,48,Contractual,25,4,4,2,1,0,United States,4
+903,Male,Divorced,1,1,3,2517,3208,27,Contractual,4,1,2,3,5,3,United States,4
+904,Male,Divorced,2,1,4,6623,4204,29,Contractual,6,3,2,3,6,0,United States,4
+905,Male,Single,5,1,4,18265,8733,48,Contractual,25,4,3,4,1,0,United States,4
+906,Female,Divorced,4,1,4,16124,3423,29,Contractual,6,4,2,2,7,7,United States,4
+907,Female,Married,1,1,3,2585,21643,34,Contractual,11,3,5,2,1,0,United States,4
+908,Male,Married,5,1,2,18213,8751,44,Contractual,21,2,5,3,22,9,United States,4
+909,Male,Divorced,3,1,3,8380,21708,33,Contractual,10,4,3,3,9,8,United States,4
+910,Female,Single,1,1,4,2994,21221,19,Contractual,-4,2,2,3,1,0,United States,4
+911,Male,Married,1,1,3,1223,16901,23,Contractual,0,4,2,3,1,0,United States,4
+912,Male,Single,1,1,4,1118,8040,25,Contractual,2,3,4,3,1,0,United States,4
+913,Male,Single,1,1,4,2875,9973,26,Contractual,3,3,2,2,8,5,United States,4
+914,Female,Single,5,1,2,18824,2493,45,Contractual,22,1,2,3,24,10,United States,4
+915,Male,Divorced,4,1,2,13577,25592,55,Contractual,32,4,3,3,33,9,United States,4
+916,Female,Single,1,1,3,2625,25308,21,Contractual,-2,1,2,1,2,2,United States,4
+917,Female,Married,5,1,2,18789,9946,46,Contractual,23,4,2,3,11,4,United States,4
+918,Female,Single,2,1,1,4538,6039,34,Contractual,11,3,3,3,3,2,United States,4
+919,Male,Divorced,5,1,2,19847,19196,51,Contractual,28,4,5,2,29,10,United States,4
+920,Male,Single,3,1,4,10512,20002,59,Contractual,36,4,6,2,9,7,United States,4
+921,Female,Divorced,2,1,2,4444,22534,34,Contractual,11,3,2,4,11,8,United States,4
+922,Male,Single,1,1,3,2154,6842,28,Contractual,5,4,2,2,4,2,United States,4
+923,Male,Divorced,5,1,1,19190,17477,44,Contractual,21,3,4,2,25,9,United States,4
+924,Male,Married,2,1,2,4490,21833,34,Contractual,11,3,5,4,10,9,United States,4
+925,Male,Married,1,1,3,3506,6020,35,Contractual,12,3,3,3,3,2,United States,4
+926,Female,Married,2,1,2,2372,5628,42,Contractual,19,2,2,3,1,0,United States,4
+927,Female,Single,3,1,4,10231,20364,43,Contractual,20,4,3,4,21,7,United States,4
+928,Female,Single,2,1,2,5410,2323,36,Contractual,13,3,2,3,16,14,United States,4
+929,Female,Married,3,1,4,7978,14075,44,Contractual,21,1,2,3,10,7,United States,4
+930,Male,Married,1,1,4,3867,14222,28,Contractual,5,4,2,3,2,2,United States,4
+931,Female,Single,1,1,3,2838,4257,51,Contractual,28,2,6,2,7,0,United States,4
+932,Female,Single,2,1,3,4695,12858,30,Contractual,7,3,3,3,8,4,United States,4
+933,Female,Divorced,1,1,3,3339,17285,29,Contractual,6,2,2,3,7,7,United States,4
+934,Male,Single,1,1,1,2080,4732,28,Contractual,5,4,2,2,3,2,United States,4
+935,Female,Single,1,1,2,2096,18830,25,Contractual,2,4,3,2,2,2,United States,4
+936,Male,Married,2,1,4,6209,11693,32,Contractual,9,3,4,4,10,7,United States,4
+937,Female,Single,5,1,2,18061,13035,45,Contractual,22,2,4,3,0,0,United States,4
+938,Female,Divorced,4,1,2,17123,17334,39,Contractual,16,3,4,3,19,9,United States,4
+939,Male,Divorced,1,1,3,2372,26076,58,Contractual,35,1,3,3,2,2,United States,4
+940,Male,Married,2,1,3,4883,22845,32,Contractual,9,4,3,3,10,4,United States,4
+941,Male,Single,1,1,1,3904,22154,39,Contractual,16,3,2,3,5,2,United States,4
+942,Female,Married,2,1,4,4627,23631,30,Contractual,7,1,6,3,9,2,United States,4
+943,Female,Married,3,1,3,7094,5747,36,Contractual,13,4,0,3,7,7,United States,4
+944,Female,Single,1,1,1,3423,22957,46,Contractual,23,4,3,4,7,6,United States,4
+945,Female,Married,2,1,4,6674,16392,28,Contractual,5,3,6,3,9,8,United States,4
+946,Female,Married,4,1,1,16880,22422,50,Contractual,27,4,2,3,3,2,United States,4
+947,Male,Single,3,1,2,9094,17235,40,Contractual,17,4,2,3,5,4,United States,4
+948,Male,Single,3,1,2,8446,21534,52,Contractual,29,2,2,2,8,7,United States,4
+949,Female,Married,3,1,1,11916,25927,30,Contractual,7,2,2,3,9,1,United States,4
+950,Male,Single,2,1,3,4534,13352,39,Contractual,16,1,6,3,8,7,United States,4
+951,Female,Divorced,3,1,3,9852,8935,31,Contractual,8,4,5,2,10,8,United States,4
+952,Male,Single,2,1,2,6151,22074,41,Contractual,18,3,4,3,19,2,United States,4
+953,Female,Single,1,1,2,2302,8319,31,Contractual,8,4,2,4,3,2,United States,4
+954,Male,Married,1,1,1,2362,14669,44,Contractual,21,1,4,4,3,2,United States,4
+955,Male,Married,4,1,3,17861,26582,42,Contractual,19,3,3,2,20,8,United States,4
+956,Female,Married,5,1,3,19187,6992,55,Contractual,32,4,5,3,19,9,United States,4
+957,Male,Single,5,1,2,19717,4022,56,Contractual,33,4,4,3,7,3,United States,4
+958,Male,Divorced,1,1,3,3544,8532,40,Contractual,17,3,0,3,4,2,United States,4
+959,Male,Divorced,3,1,4,8500,5494,34,Contractual,11,4,0,2,9,7,United States,4
+960,Male,Single,2,1,4,4661,22455,40,Contractual,17,3,4,3,9,8,United States,5
+961,Female,Divorced,2,1,1,4103,4297,41,Contractual,18,3,2,3,9,3,United States,5
+962,Male,Single,2,1,3,4249,2690,35,Contractual,12,3,3,3,9,6,United States,5
+963,Male,Divorced,4,1,2,14026,17588,51,Contractual,28,3,2,3,33,9,United States,5
+964,Female,Divorced,2,1,1,6893,19461,38,Contractual,15,2,3,3,7,7,United States,5
+965,Female,Single,2,1,1,6125,23553,34,Contractual,11,3,6,4,10,8,United States,5
+966,Male,Married,1,1,4,3669,9075,25,Contractual,2,4,6,2,3,2,United States,5
+967,Female,Married,3,1,1,10008,12023,58,Contractual,35,3,0,2,10,9,United States,5
+968,Male,Married,1,1,2,2387,6762,40,Contractual,17,2,3,3,4,2,United States,5
+969,Female,Married,2,1,1,4639,2261,36,Contractual,13,1,2,2,15,7,United States,5
+970,Male,Single,3,1,4,7898,18706,48,Contractual,25,4,2,3,10,9,United States,5
+971,Female,Married,1,1,4,2534,6527,27,Contractual,4,3,4,3,1,0,United States,5
+972,Female,Single,4,1,2,13142,24439,51,Contractual,28,4,1,2,5,2,United States,5
+973,Female,Single,1,1,4,1611,19305,18,Contractual,-5,4,5,4,0,0,United States,5
+974,Female,Married,2,1,4,5363,10846,35,Contractual,12,4,0,3,9,7,United States,5
+975,Male,Single,2,1,4,5071,20392,27,Contractual,4,4,3,3,6,2,United States,5
+976,Male,Single,4,1,3,13695,9277,55,Contractual,32,1,2,2,19,7,United States,5
+977,Male,Married,4,1,2,13402,18235,56,Contractual,33,4,0,3,19,16,United States,5
+978,Female,Divorced,1,1,3,2029,15891,34,Contractual,11,1,2,3,5,4,United States,5
+979,Female,Divorced,2,1,3,6377,13888,40,Contractual,17,2,0,3,12,11,United States,5
+980,Male,Married,2,1,3,5429,17491,34,Contractual,11,2,1,3,8,7,United States,5
+981,Female,Single,1,1,4,2785,11882,31,Contractual,8,3,3,4,1,0,United States,5
+982,Female,Married,2,1,3,4614,23288,35,Contractual,12,4,0,2,4,2,United States,5
+983,Male,Divorced,1,1,3,2610,15748,38,Contractual,15,4,2,3,4,2,United States,5
+984,Female,Single,2,1,4,6687,6163,34,Contractual,11,3,2,4,14,11,United States,5
+985,Male,Married,2,1,1,4724,24232,28,Contractual,5,3,0,3,5,3,United States,5
+986,Male,Married,2,1,3,6179,21057,31,Contractual,8,4,3,2,10,2,United States,5
+987,Male,Married,2,1,4,6120,3567,39,Contractual,16,1,2,4,5,4,United States,5
+988,Male,Married,3,1,2,10596,15395,51,Contractual,28,2,5,3,4,2,United States,5
+989,Female,Divorced,2,1,4,5467,13953,41,Contractual,18,4,4,2,6,2,United States,5
+990,Male,Married,1,1,3,2996,5182,37,Contractual,14,3,2,3,6,4,United States,5
+991,Male,Married,2,1,4,9998,19293,33,Contractual,10,2,2,4,5,4,United States,5
+992,Male,Married,2,1,2,4078,20497,32,Contractual,9,3,3,2,3,2,United States,5
+993,Male,Married,3,1,3,10920,3449,39,Contractual,16,3,2,3,6,4,United States,5
+994,Male,Married,2,1,3,6232,12477,25,Contractual,2,1,3,2,3,2,United States,5
+995,Female,Married,4,1,3,13247,9731,52,Contractual,29,4,3,2,5,3,United States,5
+996,Female,Single,2,1,3,4081,20003,43,Contractual,20,1,3,1,20,7,United States,5
+997,Female,Married,2,1,4,5769,7100,27,Contractual,4,4,3,3,6,2,United States,5
+998,Female,Single,1,1,3,2394,25681,27,Contractual,4,4,2,3,8,2,United States,5
+999,Male,Single,1,1,4,3904,4050,26,Contractual,3,1,2,3,4,3,United States,5
+1000,Female,Married,4,1,1,16799,16616,42,Contractual,19,3,5,3,20,7,United Kingdom,5
+1001,Female,Married,1,1,1,2950,17363,52,Contractual,29,3,2,1,5,4,United Kingdom,5
+1002,Female,Single,1,1,3,3629,19106,37,Contractual,14,1,6,3,3,2,United Kingdom,5
+1003,Male,Single,3,1,4,9362,19944,35,Contractual,12,3,2,3,2,2,United Kingdom,5
+1004,Male,Married,1,1,4,3229,4910,25,Contractual,2,1,2,2,3,2,United Kingdom,5
+1005,Male,Single,1,1,1,3578,23577,26,Contractual,3,3,2,3,7,7,United Kingdom,5
+1006,Male,Single,3,1,1,7988,9769,29,Contractual,6,2,3,2,10,9,United Kingdom,5
+1007,Male,Single,2,1,1,4284,22710,49,Contractual,26,1,2,3,4,3,United Kingdom,5
+1008,Female,Single,3,1,4,7553,22930,29,Contractual,6,3,1,3,8,7,United Kingdom,5
+1009,Female,Single,4,1,4,17328,5652,54,Contractual,31,4,3,2,20,7,United Kingdom,5
+1010,Female,Married,5,1,1,19701,22456,58,Contractual,35,4,3,3,9,8,United Kingdom,5
+1011,Male,Divorced,4,1,4,14732,12414,55,Contractual,32,2,4,4,7,7,United Kingdom,5
+1012,Female,Single,2,1,2,9278,20763,36,Contractual,13,1,3,3,5,4,United Kingdom,5
+1013,Female,Single,1,1,3,1359,16154,31,Contractual,8,2,3,3,1,0,United Kingdom,5
+1014,Female,Divorced,2,1,1,4779,12761,30,Contractual,7,4,3,3,3,2,United Kingdom,5
+1015,Female,Single,4,1,2,16422,8847,31,Contractual,8,1,3,4,3,2,United Kingdom,5
+1016,Male,Divorced,1,1,1,2996,20284,34,Contractual,11,4,2,3,4,3,United Kingdom,5
+1017,Female,Single,1,1,2,1261,22262,31,Contractual,8,1,3,4,1,0,United Kingdom,5
+1018,Male,Married,1,1,1,2099,7679,27,Contractual,4,2,3,4,5,0,United Kingdom,5
+1019,Male,Single,2,1,4,5810,22604,36,Contractual,13,1,2,2,10,4,United Kingdom,5
+1020,Female,Married,2,1,1,5647,13494,36,Contractual,13,3,3,2,3,2,United Kingdom,5
+1021,Male,Married,1,1,4,3420,10205,47,Contractual,24,1,2,2,6,5,United Kingdom,5
+1022,Male,Married,1,1,1,4400,15182,25,Contractual,2,1,2,3,3,2,United Kingdom,5
+1023,Male,Single,1,1,3,3500,25470,37,Contractual,14,3,2,1,6,5,United Kingdom,5
+1024,Female,Married,1,1,1,2066,10494,56,Contractual,33,1,3,4,3,2,United Kingdom,5
+1025,Female,Married,4,1,3,17169,26703,47,Contractual,24,1,2,4,20,17,United Kingdom,5
+1026,Female,Married,2,1,3,4162,15211,24,Contractual,1,4,3,3,5,4,United Kingdom,5
+1027,Male,Married,2,1,4,9204,23343,32,Contractual,9,4,3,2,4,3,United Kingdom,5
+1028,Female,Married,1,1,2,3294,3708,34,Contractual,11,4,2,2,5,4,United Kingdom,5
+1029,Male,Married,1,1,3,2127,5561,41,Contractual,18,2,5,2,4,2,United Kingdom,5
+1030,Male,Divorced,2,1,3,3975,23099,40,Contractual,17,3,2,4,8,7,United Kingdom,5
+1031,Male,Divorced,3,1,4,10793,8386,31,Contractual,8,1,5,3,13,7,United Kingdom,5
+1032,Male,Divorced,3,1,4,10096,15986,46,Contractual,23,1,1,4,7,7,United Kingdom,5
+1033,Female,Single,1,1,1,3646,17181,39,Contractual,16,1,2,4,1,0,United Kingdom,5
+1034,Female,Single,3,1,2,7446,8931,31,Contractual,8,3,2,3,10,8,United Kingdom,5
+1035,Male,Divorced,3,1,1,10851,19863,45,Contractual,22,2,2,3,7,7,United Kingdom,5
+1036,Female,Single,1,1,2,2109,24609,31,Contractual,8,4,3,3,3,2,United Kingdom,5
+1037,Male,Married,1,1,4,3722,21081,31,Contractual,8,2,2,1,2,2,United Kingdom,5
+1038,Male,Married,3,1,4,9380,14720,45,Contractual,22,2,4,4,3,1,United Kingdom,5
+1039,Male,Divorced,2,1,1,5486,24795,48,Contractual,25,3,3,3,2,2,United Kingdom,5
+1040,Female,Married,1,1,3,2742,3072,34,Contractual,11,1,0,3,2,2,United Kingdom,5
+1041,Male,Divorced,3,1,2,13757,25178,40,Contractual,17,4,5,3,9,8,United Kingdom,5
+1042,Male,Single,2,1,1,8463,23490,28,Contractual,5,4,4,3,5,4,United Kingdom,5
+1043,Male,Single,1,1,3,3162,7973,44,Contractual,21,3,5,3,5,2,United Kingdom,5
+1044,Male,Single,4,1,2,16598,19764,53,Contractual,30,4,2,2,9,8,United Kingdom,5
+1045,Male,Married,2,1,3,6651,21534,49,Contractual,26,1,0,2,3,2,United Kingdom,5
+1046,Male,Divorced,1,1,3,2345,8045,40,Contractual,17,3,3,4,3,1,United Kingdom,5
+1047,Male,Single,1,1,2,3420,21158,44,Contractual,21,4,3,2,5,2,United Kingdom,5
+1048,Male,Married,2,1,1,4373,17456,33,Contractual,10,4,2,3,4,3,United Kingdom,5
+1049,Male,Single,2,1,1,4759,15891,34,Contractual,11,4,2,3,13,9,United Kingdom,5
+1050,Male,Married,2,1,3,5301,2939,30,Contractual,7,4,2,2,2,1,United Kingdom,5
+1051,Female,Single,1,1,4,3673,16458,42,Contractual,19,1,3,3,12,9,United Kingdom,5
+1052,Female,Married,2,1,3,4768,9282,44,Contractual,21,1,4,2,1,0,United Kingdom,5
+1053,Male,Divorced,1,1,3,1274,7152,30,Contractual,7,3,2,2,1,0,United Kingdom,5
+1054,Male,Married,2,1,3,4900,2721,57,Contractual,34,2,2,2,12,9,United Kingdom,5
+1055,Male,Divorced,3,1,2,10466,20948,49,Contractual,26,3,3,3,8,7,United Kingdom,5
+1056,Male,Divorced,4,1,1,17007,11929,34,Contractual,11,2,3,2,14,8,United Kingdom,5
+1057,Male,Married,1,1,3,2909,15747,28,Contractual,5,1,3,4,3,2,United Kingdom,5
+1058,Female,Single,2,1,2,5765,17485,29,Contractual,6,1,4,1,5,3,United Kingdom,5
+1059,Female,Single,2,1,2,4599,7815,34,Contractual,11,1,2,4,15,9,United Kingdom,5
+1060,Male,Married,1,1,3,2404,16192,35,Contractual,12,4,3,3,1,0,United Kingdom,5
+1061,Male,Single,1,1,1,3172,16998,24,Contractual,1,2,2,2,0,0,United Kingdom,5
+1062,Female,Married,1,1,2,2033,7103,24,Contractual,1,4,2,3,1,0,United Kingdom,5
+1063,Male,Single,3,1,3,10209,19719,44,Contractual,21,2,2,2,2,2,United Kingdom,5
+1064,Male,Divorced,2,1,3,8620,23757,29,Contractual,6,3,3,3,10,7,United Kingdom,5
+1065,Male,Divorced,1,1,3,2064,15428,30,Contractual,7,3,3,4,5,3,United Kingdom,5
+1066,Male,Married,2,1,3,4035,16143,55,Contractual,32,4,2,3,3,2,United Kingdom,5
+1067,Female,Married,1,1,2,3838,8192,33,Contractual,10,1,5,3,5,4,United Kingdom,5
+1068,Female,Married,2,1,3,4591,24200,47,Contractual,24,3,4,2,5,4,United Kingdom,5
+1069,Male,Single,1,1,1,2561,5355,28,Contractual,5,3,2,2,0,0,United Kingdom,5
+1070,Male,Divorced,1,1,3,1563,12530,28,Contractual,5,1,2,1,1,0,United Kingdom,5
+1071,Male,Single,2,1,1,4898,11827,28,Contractual,5,3,5,3,4,2,United Kingdom,5
+1072,Female,Married,2,1,1,4789,23070,49,Contractual,26,3,3,3,3,2,United Kingdom,5
+1073,Female,Married,1,1,2,3180,4668,29,Contractual,6,4,3,3,3,2,United Kingdom,5
+1074,Male,Married,2,1,2,6549,3173,28,Contractual,5,3,2,2,8,6,United Kingdom,5
+1075,Male,Single,2,1,3,6388,22049,33,Contractual,10,4,6,3,0,0,United Kingdom,5
+1076,Male,Single,3,1,4,11244,21072,32,Contractual,9,3,5,4,5,2,United Kingdom,5
+1077,Female,Divorced,4,1,4,16032,24456,54,Contractual,31,2,2,3,14,9,United Kingdom,5
+1078,Male,Single,1,1,1,2362,7568,29,Contractual,6,1,2,1,9,7,United Kingdom,5
+1079,Male,Married,4,1,1,16328,22074,44,Contractual,21,4,1,4,20,6,United Kingdom,5
+1080,Female,Single,3,1,2,8376,9150,39,Contractual,16,2,3,3,2,0,United Kingdom,6
+1081,Female,Married,4,1,2,16606,11380,46,Contractual,23,3,2,4,13,12,United Kingdom,6
+1082,Female,Single,3,1,2,8606,21195,35,Contractual,12,4,3,1,11,8,United Kingdom,6
+1083,Male,Single,2,1,3,2272,24812,23,Contractual,0,1,2,3,4,3,United Kingdom,6
+1084,Male,Single,1,1,1,2018,21831,40,Contractual,17,4,3,1,5,4,United Kingdom,6
+1085,Male,Married,3,1,3,7083,12288,34,Contractual,11,4,3,3,10,9,United Kingdom,6
+1086,Female,Single,1,1,3,4084,4156,31,Contractual,8,4,2,1,7,2,United Kingdom,6
+1087,Male,Single,4,1,4,14411,24450,50,Contractual,27,3,2,3,32,6,United Kingdom,6
+1088,Male,Married,1,1,3,2308,4944,34,Contractual,11,2,4,3,11,10,United Kingdom,6
+1089,Male,Married,1,1,2,4841,24052,42,Contractual,19,3,3,3,1,0,United Kingdom,6
+1090,Male,Married,2,1,4,4285,3031,37,Contractual,14,1,2,3,10,8,United Kingdom,6
+1091,Female,Married,2,1,1,9715,7288,29,Contractual,6,3,3,3,7,7,United Kingdom,6
+1092,Male,Single,2,1,2,4320,24152,33,Contractual,10,4,2,3,5,3,United Kingdom,6
+1093,Male,Married,1,1,4,2132,4585,45,Contractual,22,4,3,3,5,4,United Kingdom,6
+1094,Male,Married,3,1,4,10124,18611,42,Contractual,19,4,3,1,20,8,United Kingdom,6
+1095,Male,Married,2,1,1,5473,19345,40,Contractual,17,1,5,4,8,4,United Kingdom,6
+1096,Male,Married,2,1,3,5207,22949,33,Contractual,10,2,3,3,15,14,United Kingdom,6
+1097,Male,Single,4,1,4,16437,17381,40,Contractual,17,3,2,3,21,7,United Kingdom,6
+1098,Male,Divorced,1,1,1,2296,10036,24,Contractual,1,3,3,3,1,1,United Kingdom,6
+1099,Male,Divorced,2,1,4,4069,8841,40,Contractual,17,4,2,3,2,2,United Kingdom,6
+1100,Male,Divorced,3,1,2,7441,20933,45,Contractual,22,1,4,3,10,8,United Kingdom,6
+1101,Female,Married,1,1,3,2430,26204,35,Contractual,12,2,5,3,5,3,United Kingdom,6
+1102,Female,Married,2,1,2,5878,15624,32,Contractual,9,4,2,3,7,1,United Kingdom,6
+1103,Male,Single,1,1,4,2644,17001,36,Contractual,13,3,3,2,3,2,United Kingdom,6
+1104,Female,Divorced,2,1,3,6439,13693,48,Contractual,25,3,2,3,8,7,United Kingdom,6
+1105,Male,Married,1,1,3,2451,22376,29,Contractual,6,3,2,2,1,0,United Kingdom,6
+1106,Male,Married,2,1,1,6392,10589,33,Contractual,10,1,6,1,2,2,United Kingdom,6
+1107,Male,Married,2,1,1,9714,5323,30,Contractual,7,2,4,3,10,8,United Kingdom,6
+1108,Male,Married,2,1,3,6077,14814,38,Contractual,15,3,2,3,6,3,United Kingdom,6
+1109,Male,Single,1,1,1,2450,21731,35,Contractual,12,4,3,3,3,0,United Kingdom,6
+1110,Male,Married,3,1,2,9250,17799,30,Contractual,7,3,3,3,4,2,United Kingdom,6
+1111,Female,Divorced,1,1,1,2074,26619,35,Contractual,12,1,2,3,1,0,United Kingdom,6
+1112,Female,Married,3,1,4,10169,14618,53,Contractual,30,3,4,3,33,7,United Kingdom,6
+1113,Male,Married,2,1,2,4855,7653,38,Contractual,15,3,2,3,5,2,United Kingdom,6
+1114,Male,Married,2,1,1,4087,25174,32,Contractual,9,4,3,2,6,5,United Kingdom,6
+1115,Female,Married,1,1,1,2367,16530,48,Contractual,25,3,3,2,8,2,United Kingdom,6
+1116,Male,Single,1,1,4,2972,22061,34,Contractual,11,1,4,1,1,0,United Kingdom,6
+1117,Male,Married,5,1,4,19586,23037,55,Contractual,32,3,3,3,36,6,United Kingdom,6
+1118,Male,Married,2,1,4,5484,13008,34,Contractual,11,2,3,2,2,2,United Kingdom,6
+1119,Female,Married,1,1,4,2061,11133,26,Contractual,3,1,5,3,1,0,United Kingdom,6
+1120,Male,Married,2,1,2,9924,12355,38,Contractual,15,3,3,3,9,8,United Kingdom,6
+1121,Female,Single,2,1,2,4198,16379,38,Contractual,15,2,5,4,3,2,United Kingdom,6
+1122,Female,Single,2,1,3,6815,21447,36,Contractual,13,2,5,3,1,0,United Kingdom,6
+1123,Male,Single,1,1,1,4723,16213,29,Contractual,6,2,3,3,10,9,United Kingdom,6
+1124,Female,Single,2,1,3,6142,4223,35,Contractual,12,1,4,3,5,2,United Kingdom,6
+1125,Male,Married,3,1,3,8237,4658,39,Contractual,16,4,3,3,7,6,United Kingdom,6
+1126,Male,Divorced,2,1,4,8853,24483,29,Contractual,6,1,0,4,6,4,United Kingdom,6
+1127,Male,Married,5,1,3,19331,19519,50,Contractual,27,3,2,3,1,0,United Kingdom,6
+1128,Male,Married,1,1,3,2073,12826,23,Contractual,0,4,2,3,2,2,United Kingdom,6
+1129,Male,Married,2,1,1,5562,19711,36,Contractual,13,1,3,3,3,2,United Kingdom,6
+1130,Male,Single,5,1,4,19613,26362,42,Contractual,19,4,2,3,1,0,United Kingdom,6
+1131,Male,Married,2,1,3,3407,25348,35,Contractual,12,2,3,2,10,9,United Kingdom,6
+1132,Male,Married,2,1,3,5063,15332,34,Contractual,11,4,3,2,8,2,United Kingdom,6
+1133,Female,Married,2,1,1,4639,11262,40,Contractual,17,4,2,3,5,4,United Kingdom,6
+1134,Male,Divorced,1,1,2,4876,5855,43,Contractual,20,4,0,3,6,4,United Kingdom,6
+1135,Male,Married,1,1,4,2690,7713,35,Contractual,12,3,5,2,1,0,United Kingdom,6
+1136,Male,Single,4,1,1,17567,3156,46,Contractual,23,4,5,1,26,0,United Kingdom,6
+1137,Male,Married,1,1,2,2408,7324,28,Contractual,5,3,3,3,1,1,United Kingdom,6
+1138,Female,Married,1,1,3,2814,10293,22,Contractual,-1,2,2,2,4,2,United Kingdom,6
+1139,Male,Married,4,1,3,11245,20689,50,Contractual,27,2,3,3,30,8,United Kingdom,6
+1140,Female,Married,1,1,4,3312,18783,32,Contractual,9,2,3,3,3,2,United Kingdom,6
+1141,Female,Divorced,5,1,4,19049,3549,44,Contractual,21,2,4,2,22,7,United Kingdom,6
+1142,Male,Married,1,1,2,2141,5348,30,Contractual,7,2,3,2,6,4,United Kingdom,6
+1143,Female,Single,2,1,1,5769,23447,45,Contractual,22,3,3,3,10,7,United Kingdom,6
+1144,Male,Married,2,1,1,4385,24162,45,Contractual,22,1,2,3,10,7,United Kingdom,6
+1145,Male,Single,2,1,1,5332,21602,31,Contractual,8,4,3,3,5,2,United Kingdom,6
+1146,Female,Married,2,1,3,4663,12421,36,Contractual,13,3,2,3,3,2,United Kingdom,6
+1147,Male,Divorced,2,1,4,4724,17000,34,Contractual,11,3,3,3,9,7,United Kingdom,6
+1148,Female,Married,1,1,1,3211,22102,49,Contractual,26,3,3,2,9,6,United Kingdom,6
+1149,Male,Married,2,1,1,5377,3835,39,Contractual,16,2,3,3,7,7,United Kingdom,6
+1150,Male,Divorced,1,1,1,4066,16290,27,Contractual,4,4,3,3,7,7,United Kingdom,6
+1151,Male,Married,2,1,1,5208,26312,35,Contractual,12,2,2,3,16,15,United Kingdom,6
+1152,Female,Divorced,2,1,1,4877,20460,28,Contractual,5,2,5,2,5,3,United Kingdom,6
+1153,Male,Single,1,1,4,3117,26009,21,Contractual,-2,3,2,3,2,2,United Kingdom,6
+1154,Female,Single,1,1,4,1569,18420,18,Contractual,-5,2,2,4,0,0,United Kingdom,6
+1155,Female,Married,5,1,3,19658,5220,47,Contractual,24,4,2,3,5,2,United Kingdom,6
+1156,Male,Divorced,2,1,3,3069,10302,39,Contractual,16,3,3,3,10,8,United Kingdom,6
+1157,Female,Married,3,1,3,10435,25800,40,Contractual,17,1,2,3,18,15,United Kingdom,6
+1158,Female,Married,2,1,3,4148,12250,35,Contractual,12,3,5,3,14,11,United Kingdom,6
+1159,Male,Married,2,1,3,5768,26493,37,Contractual,14,3,2,2,4,3,United Kingdom,6
+1160,Female,Single,2,1,3,5042,3140,39,Contractual,16,1,2,1,9,2,United Kingdom,6
+1161,Female,Divorced,2,1,4,5770,5388,45,Contractual,22,4,3,3,10,7,United Kingdom,6
+1162,Female,Married,3,1,3,7756,14199,38,Contractual,15,4,6,4,5,4,United Kingdom,6
+1163,Male,Married,3,1,1,10306,21530,35,Contractual,12,4,3,3,13,12,United Kingdom,6
+1164,Female,Married,1,1,2,3936,9953,37,Contractual,14,2,2,1,8,4,United Kingdom,6
+1165,Female,Single,3,1,4,7945,19948,40,Contractual,17,3,2,2,4,2,United Kingdom,6
+1166,Male,Married,2,1,4,5743,10503,44,Contractual,21,1,3,3,10,7,United Kingdom,6
+1167,Male,Married,4,1,4,15202,5602,48,Contractual,25,3,3,3,2,2,United Kingdom,6
+1168,Male,Divorced,2,1,4,5440,22098,35,Contractual,12,1,2,2,2,2,United Kingdom,6
+1169,Female,Single,1,1,4,3760,17218,24,Contractual,1,1,2,3,6,3,United Kingdom,6
+1170,Female,Married,1,1,3,3517,22490,27,Contractual,4,2,0,3,3,2,United Kingdom,6
+1171,Male,Single,1,1,4,2580,6297,27,Contractual,4,4,0,2,4,2,United Kingdom,6
+1172,Male,Single,1,1,1,2166,3339,40,Contractual,17,1,3,1,4,2,United Kingdom,6
+1173,Male,Single,2,1,3,5869,23413,29,Contractual,6,3,2,3,5,2,United Kingdom,6
+1174,Female,Married,3,1,1,8008,22792,36,Contractual,13,2,6,3,3,2,United Kingdom,6
+1175,Male,Divorced,2,1,3,5206,4973,25,Contractual,2,4,6,3,7,7,United Kingdom,6
+1176,Male,Married,2,1,2,5295,7693,39,Contractual,16,4,3,3,5,4,United Kingdom,6
+1177,Female,Married,4,1,2,16413,3498,49,Contractual,26,1,2,3,4,2,United Kingdom,6
+1178,Female,Divorced,3,1,1,13269,21981,50,Contractual,27,4,3,3,14,11,United Kingdom,6
+1179,Female,Single,1,1,3,2783,13251,20,Contractual,-3,3,3,3,2,2,United Kingdom,6
+1180,Female,Divorced,2,1,2,5433,19332,34,Contractual,11,4,2,3,11,8,United Kingdom,6
+1181,Male,Single,1,1,2,2013,10950,36,Contractual,13,1,4,3,4,3,United Kingdom,6
+1182,Female,Married,4,1,3,13966,11652,49,Contractual,26,3,3,3,15,11,United Kingdom,6
+1183,Female,Married,2,1,3,4374,15411,36,Contractual,13,4,6,3,3,2,United Kingdom,6
+1184,Male,Divorced,2,1,1,6842,26308,36,Contractual,13,4,3,3,5,4,United Kingdom,6
+1185,Female,Married,4,1,3,17426,18685,54,Contractual,31,2,6,3,10,8,United Kingdom,6
+1186,Male,Married,4,1,3,17603,3525,43,Contractual,20,3,3,3,14,10,United Kingdom,6
+1187,Male,Single,2,1,4,4581,10414,35,Contractual,12,4,2,4,11,9,United Kingdom,6
+1188,Male,Married,2,1,4,4735,9867,38,Contractual,15,4,4,4,13,11,United Kingdom,6
+1189,Male,Divorced,2,1,2,4187,3356,29,Contractual,6,1,3,2,10,0,United Kingdom,6
+1190,Male,Divorced,2,1,4,5505,3921,33,Contractual,10,4,5,3,6,2,United Kingdom,6
+1191,Male,Divorced,2,1,2,5470,25518,32,Contractual,9,4,4,2,9,5,United Kingdom,6
+1192,Female,Married,2,1,4,5476,22589,31,Contractual,8,1,2,3,10,0,United Kingdom,6
+1193,Female,Divorced,1,1,1,2587,24941,49,Contractual,26,4,2,2,2,2,United Kingdom,6
+1194,Female,Single,1,1,2,2440,23826,38,Contractual,15,4,3,3,4,3,United Kingdom,6
+1195,Female,Divorced,4,1,2,15972,21086,47,Contractual,24,2,2,3,3,2,United Kingdom,6
+1196,Male,Single,4,1,3,15379,22384,49,Contractual,26,3,2,3,8,7,United Kingdom,6
+1197,Male,Single,3,1,3,7082,11591,41,Contractual,18,4,2,3,2,0,United Kingdom,6
+1198,Male,Single,1,1,1,2728,21082,20,Contractual,-3,4,3,3,2,2,United Kingdom,6
+1199,Female,Divorced,2,1,4,5368,16130,33,Contractual,10,3,2,3,6,5,United Kingdom,6
+1200,Male,Married,2,1,3,5347,7419,36,Contractual,13,1,2,2,3,2,United Kingdom,6
+1201,Female,Divorced,1,1,4,3195,4167,44,Contractual,21,3,2,3,2,2,United Kingdom,6
+1202,Male,Single,1,1,3,3989,20586,23,Contractual,0,4,2,3,5,4,United Kingdom,6
+1203,Female,Married,1,1,3,3306,26176,38,Contractual,15,4,5,2,0,0,United Kingdom,6
+1204,Male,Married,3,1,4,7005,3458,53,Contractual,30,2,2,3,4,3,United Kingdom,6
+1205,Female,Married,1,1,3,2655,11740,48,Contractual,25,4,3,3,9,7,United Kingdom,6
+1206,Male,Single,1,1,2,1393,24852,32,Contractual,9,4,2,3,1,0,United Kingdom,6
+1207,Male,Single,1,1,4,2570,11925,26,Contractual,3,4,5,3,7,7,United Kingdom,6
+1208,Male,Divorced,1,1,2,3537,23737,55,Contractual,32,1,1,3,4,2,United Kingdom,6
+1209,Male,Married,2,1,4,3986,11912,34,Contractual,11,2,3,4,15,10,United Kingdom,6
+1210,Male,Divorced,3,1,4,10883,20467,60,Contractual,37,3,2,4,1,0,United Kingdom,6
+1211,Male,Married,1,1,2,2028,13637,33,Contractual,10,2,6,3,14,11,United Kingdom,6
+1212,Male,Divorced,2,1,4,9525,7677,37,Contractual,14,3,2,2,6,3,United Kingdom,6
+1213,Female,Married,1,1,4,2929,20338,34,Contractual,11,2,3,3,10,9,United Kingdom,6
+1214,Male,Divorced,1,1,4,2275,25103,23,Contractual,0,3,2,3,3,2,United Kingdom,6
+1215,Female,Married,3,1,4,7879,14810,44,Contractual,21,3,2,3,8,7,United Kingdom,6
+1216,Male,Single,1,1,4,4930,13970,35,Contractual,12,1,2,4,5,4,United Kingdom,6
+1217,Male,Married,2,1,4,7847,6069,43,Contractual,20,4,3,3,10,9,United Kingdom,6
+1218,Male,Married,1,1,3,4401,17616,24,Contractual,1,3,1,3,5,3,United Kingdom,6
+1219,Male,Single,3,1,3,9241,15869,41,Contractual,18,4,3,3,10,8,United Kingdom,6
+1220,Female,Married,1,1,3,2974,25412,29,Contractual,6,4,2,3,5,3,United Kingdom,6
+1221,Female,Single,2,1,4,4502,7439,36,Contractual,13,3,2,2,13,7,United Kingdom,6
+1222,Male,Married,3,1,3,10748,3395,45,Contractual,22,3,3,2,23,15,United Kingdom,6
+1223,Male,Married,1,1,3,1555,11585,24,Contractual,1,4,2,3,1,0,United Kingdom,6
+1224,Male,Married,4,1,3,12936,24164,47,Contractual,24,3,3,1,23,5,United Kingdom,6
+1225,Male,Married,1,1,3,2305,6217,26,Contractual,3,4,3,4,3,2,United Kingdom,6
+1226,Female,Single,4,1,2,16704,17119,45,Contractual,22,4,2,3,21,6,United Kingdom,6
+1227,Male,Married,1,1,3,3433,17360,32,Contractual,9,1,3,2,5,2,United Kingdom,6
+1228,Male,Married,1,1,3,3477,18103,31,Contractual,8,2,2,4,5,2,United Kingdom,6
+1229,Male,Married,2,1,2,6430,20794,41,Contractual,18,3,4,3,3,2,United Kingdom,6
+1230,Female,Married,2,1,1,6516,5041,40,Contractual,17,2,3,3,1,0,United Kingdom,6
+1231,Male,Divorced,1,1,1,3907,3622,24,Contractual,1,2,2,4,6,2,United Kingdom,6
+1232,Male,Single,2,1,2,5562,9697,46,Contractual,23,3,3,3,10,7,United Kingdom,6
+1233,Male,Married,2,1,3,6883,5151,35,Contractual,12,4,3,3,7,7,United Kingdom,6
+1234,Male,Married,1,1,4,2862,3811,30,Contractual,7,2,2,2,10,0,United Kingdom,6
+1235,Male,Married,2,1,2,4978,3536,47,Contractual,24,3,3,1,1,0,United Kingdom,6
+1236,Male,Divorced,3,1,4,10368,5596,46,Contractual,23,3,5,2,10,6,United Kingdom,6
+1237,Male,Divorced,2,1,1,6134,8658,36,Contractual,13,2,3,3,2,2,United Kingdom,6
+1238,Male,Single,2,1,2,6735,12147,32,Contractual,9,1,2,3,0,0,United Kingdom,6
+1239,Female,Single,1,1,2,3295,12862,23,Contractual,0,3,3,1,3,2,United Kingdom,6
+1240,Female,Single,2,1,4,5238,6670,31,Contractual,8,4,3,2,5,4,United Kingdom,6
+1241,Male,Married,2,1,4,6472,8989,39,Contractual,16,4,2,3,9,8,United Kingdom,6
+1242,Male,Married,3,1,3,9610,3840,32,Contractual,9,4,2,1,4,3,United Kingdom,6
+1243,Male,Single,5,1,2,19833,4349,40,Contractual,17,2,3,2,21,8,United Kingdom,6
+1244,Female,Married,3,1,3,9756,6595,45,Contractual,22,3,2,4,5,0,United Kingdom,6
+1245,Female,Single,1,1,1,4968,26427,30,Contractual,7,4,2,3,9,7,United Kingdom,6
+1246,Male,Married,1,1,4,2145,2097,24,Contractual,1,1,2,3,2,2,United Kingdom,6
+1247,Female,Divorced,1,1,4,2180,9732,30,Contractual,7,3,0,2,4,2,United Kingdom,6
+1248,Male,Married,2,1,3,8346,20943,31,Contractual,8,1,3,3,5,2,United Kingdom,6
+1249,Female,Single,1,1,4,3445,6152,27,Contractual,4,3,5,2,6,2,United Kingdom,6
+1250,Female,Single,1,1,2,2760,14630,29,Contractual,6,2,3,3,2,2,United Kingdom,6
+1251,Male,Single,2,1,3,6294,23060,29,Contractual,6,4,5,4,3,2,United Kingdom,6
+1252,Male,Divorced,3,1,1,7140,3088,30,Contractual,7,3,2,3,7,7,United Kingdom,6
+1253,Male,Married,1,1,4,2932,5586,34,Contractual,11,4,3,3,5,0,United Kingdom,6
+1254,Female,Single,2,1,2,5147,10697,33,Contractual,10,4,2,2,11,7,United Kingdom,6
+1255,Female,Single,2,1,4,4507,8191,49,Contractual,26,4,1,4,5,1,United Kingdom,6
+1256,Female,Single,3,1,1,8564,10092,33,Contractual,10,1,2,2,0,0,United Kingdom,6
+1257,Female,Married,1,1,2,2468,15963,38,Contractual,15,3,4,2,6,1,United Kingdom,6
+1258,Male,Married,3,1,3,8161,19002,31,Contractual,8,1,2,3,1,0,United Kingdom,6
+1259,Female,Divorced,1,1,1,2109,10007,29,Contractual,6,4,2,3,1,0,United Kingdom,6
+1260,Male,Married,2,1,3,5294,9128,30,Contractual,7,3,3,3,7,0,United Kingdom,6
+1261,Male,Single,1,1,2,2718,17674,32,Contractual,9,2,3,3,7,7,United Kingdom,6
+1262,Male,Married,2,1,4,5811,24539,38,Contractual,15,2,2,3,1,0,United Kingdom,6
+1263,Male,Married,1,1,3,2437,15587,43,Contractual,20,3,4,3,1,0,United Kingdom,6
+1264,Male,Divorced,1,1,2,2766,8952,42,Contractual,19,2,6,2,5,3,United Kingdom,6
+1265,Male,Married,5,1,1,19038,19805,55,Contractual,32,3,2,3,1,0,United Kingdom,6
+1266,Male,Divorced,2,1,2,3055,6194,33,Contractual,10,4,2,2,9,8,United Kingdom,6
+1267,Male,Divorced,1,1,1,2289,20520,41,Contractual,18,3,2,3,5,3,United Kingdom,6
+1268,Male,Divorced,2,1,3,4001,12313,34,Contractual,11,4,3,3,15,14,United Kingdom,6
+1269,Female,Married,4,1,3,12965,22308,53,Contractual,30,1,2,2,3,2,United Kingdom,6
+1270,Male,Single,1,1,4,3539,5033,43,Contractual,20,2,5,3,9,7,United Kingdom,6
+1271,Female,Single,2,1,4,6029,25353,34,Contractual,11,4,3,3,2,2,United Kingdom,6
+1272,Male,Single,1,1,2,2679,4567,21,Contractual,-2,2,3,3,1,0,United Kingdom,6
+1273,Female,Married,1,1,3,3702,16376,38,Contractual,15,4,3,3,5,4,United Kingdom,6
+1274,Female,Married,1,1,1,2398,15999,22,Contractual,-1,3,6,3,1,0,United Kingdom,6
+1275,Female,Married,2,1,4,5468,13402,31,Contractual,8,1,3,3,12,7,United Kingdom,6
+1276,Female,Married,3,1,3,13116,22984,51,Contractual,28,1,2,3,2,2,United Kingdom,6
+1277,Male,Married,2,1,2,4189,8800,37,Contractual,14,2,2,3,5,2,United Kingdom,6
+1278,Male,Divorced,5,1,4,19328,14218,46,Contractual,23,3,3,3,2,1,United Kingdom,6
+1279,Male,Married,3,1,1,8321,25949,36,Contractual,13,4,1,3,12,8,United Kingdom,6
+1280,Male,Divorced,1,1,2,2342,11092,44,Contractual,21,3,2,2,5,3,United Kingdom,6
+1281,Male,Divorced,2,1,2,4071,12832,37,Contractual,14,3,4,2,10,0,United Kingdom,6
+1282,Male,Single,2,1,4,5813,13492,35,Contractual,12,3,2,3,10,7,United Kingdom,6
+1283,Male,Married,1,1,1,3143,6076,33,Contractual,10,4,1,3,10,8,United Kingdom,6
+1284,Male,Married,1,1,4,2044,5531,28,Contractual,5,3,6,4,5,3,United Kingdom,6
+1285,Male,Single,3,1,3,13464,7914,39,Contractual,16,3,3,3,4,3,United Kingdom,6
+1286,Male,Single,2,1,2,7991,25166,46,Contractual,23,2,3,3,2,2,United Kingdom,6
+1287,Female,Married,1,1,1,3377,25605,40,Contractual,17,3,5,2,4,3,United Kingdom,6
+1288,Male,Married,2,1,1,5538,5696,42,Contractual,19,2,2,2,0,0,United Kingdom,6
+1289,Male,Divorced,2,1,4,5762,24442,35,Contractual,12,2,6,3,7,7,United Kingdom,6
+1290,Male,Divorced,1,1,2,2592,7129,38,Contractual,15,1,3,3,11,10,United Kingdom,6
+1291,Male,Married,2,1,1,5346,6208,34,Contractual,11,4,3,2,7,1,United Kingdom,6
+1292,Male,Single,2,1,1,4213,4992,37,Contractual,14,4,4,1,10,3,United Kingdom,6
+1293,Male,Divorced,2,1,4,4127,19188,39,Contractual,16,3,6,3,2,1,United Kingdom,6
+1294,Male,Single,1,1,3,2438,24978,43,Contractual,20,1,2,2,3,2,United Kingdom,6
+1295,Male,Single,2,1,2,6870,15530,41,Contractual,18,2,3,1,3,2,United Kingdom,6
+1296,Female,Divorced,3,1,3,10447,26458,41,Contractual,18,3,3,4,22,14,United Kingdom,6
+1297,Female,Single,3,1,3,9667,2739,30,Contractual,7,1,3,3,7,7,United Kingdom,6
+1298,Female,Married,1,1,2,2148,6889,26,Contractual,3,4,3,3,5,1,United Kingdom,6
+1299,Female,Married,2,1,2,8926,10842,46,Contractual,23,4,2,4,9,7,United Kingdom,6
+1300,Female,Divorced,2,1,4,6513,9060,40,Contractual,17,3,3,3,5,3,United Kingdom,6
+1301,Male,Married,2,1,3,6799,22128,34,Contractual,11,2,5,3,10,8,United Kingdom,6
+1302,Male,Divorced,4,1,2,16291,22577,58,Contractual,35,2,0,2,16,9,United Kingdom,6
+1303,Male,Married,1,1,3,2705,9696,35,Contractual,12,2,2,4,5,4,United Kingdom,6
+1304,Female,Divorced,3,1,2,10333,19271,47,Contractual,24,3,4,3,22,11,United Kingdom,6
+1305,Female,Divorced,2,1,1,4448,10748,40,Contractual,17,2,3,3,7,4,United Kingdom,6
+1306,Female,Married,2,1,4,6854,15696,54,Contractual,31,4,2,2,7,1,United Kingdom,6
+1307,Female,Married,3,1,1,9637,8277,31,Contractual,8,1,3,3,3,2,United Kingdom,6
+1308,Female,Married,1,1,1,3591,12719,28,Contractual,5,3,3,3,3,2,United Kingdom,6
+1309,Female,Married,2,1,4,5405,4244,38,Contractual,15,2,4,2,4,2,United Kingdom,6
+1310,Male,Single,2,1,4,4684,9125,26,Contractual,3,3,4,3,5,3,United Kingdom,6
+1311,Male,Married,4,1,3,15787,21624,58,Contractual,35,1,3,3,2,2,United Kingdom,6
+1312,Female,Single,1,1,3,1514,8018,18,Contractual,-5,2,4,1,0,0,United Kingdom,6
+1313,Male,Married,1,1,1,2956,21495,31,Contractual,8,4,4,3,1,0,United Kingdom,6
+1314,Male,Divorced,1,1,1,2335,3157,29,Contractual,6,1,3,3,2,2,United Kingdom,6
+1315,Female,Married,2,1,3,5154,19665,45,Contractual,22,3,3,4,8,7,United Kingdom,6
+1316,Female,Married,2,1,2,6962,19573,36,Contractual,13,4,2,3,1,0,United Kingdom,6
+1317,Male,Married,2,1,4,5675,19246,43,Contractual,20,1,5,3,7,7,United Kingdom,6
+1318,Female,Single,1,1,4,2379,19826,27,Contractual,4,4,3,2,5,4,United Kingdom,6
+1319,Male,Married,1,1,4,3812,7003,29,Contractual,6,4,3,4,11,8,United Kingdom,6
+1320,Male,Single,2,1,4,4648,26075,32,Contractual,9,4,2,4,0,0,United Kingdom,6
+1321,Male,Married,1,1,3,2936,6161,42,Contractual,19,3,1,2,6,3,United Kingdom,6
+1322,Female,Single,1,1,3,2105,5411,47,Contractual,24,2,2,3,2,2,United Kingdom,6
+1323,Male,Divorced,3,1,4,8578,19989,46,Contractual,23,4,4,2,9,8,United Kingdom,6
+1324,Male,Divorced,1,1,4,2706,10494,28,Contractual,5,3,2,3,3,2,United Kingdom,6
+1325,Male,Divorced,2,1,3,6384,21143,29,Contractual,6,4,3,3,7,0,United Kingdom,6
+1326,Male,Single,1,1,3,3968,13624,42,Contractual,19,4,3,3,0,0,United Kingdom,6
+1327,Male,Single,2,1,2,9907,26186,32,Contractual,9,3,3,2,2,2,United Kingdom,6
+1328,Female,Divorced,4,1,1,13225,7739,46,Contractual,23,1,5,3,19,17,United Kingdom,6
+1329,Female,Married,2,1,3,3540,7018,27,Contractual,4,2,5,3,9,8,United Kingdom,6
+1330,Male,Married,1,1,2,2804,15434,29,Contractual,6,4,3,3,1,0,United Kingdom,6
+1331,Female,Married,5,1,3,19392,22539,43,Contractual,20,1,2,3,16,12,United Kingdom,6
+1332,Male,Married,5,1,2,19665,13583,48,Contractual,25,4,3,3,22,10,United Kingdom,6
+1333,Male,Single,1,1,4,2439,14753,29,Contractual,6,4,3,2,1,0,United Kingdom,6
+1334,Female,Married,3,1,2,7314,14011,46,Contractual,23,3,2,3,8,7,United Kingdom,6
+1335,Female,Married,1,1,1,4774,23844,27,Contractual,4,4,2,2,7,6,United Kingdom,6
+1336,Male,Divorced,2,1,4,3902,5141,39,Contractual,16,4,2,3,2,2,United Kingdom,6
+1337,Male,Married,1,1,4,2662,7975,55,Contractual,32,2,2,4,5,2,United Kingdom,6
+1338,Female,Married,1,1,2,2856,3692,28,Contractual,5,2,3,3,1,0,United Kingdom,6
+1339,Male,Single,1,1,4,1081,16019,30,Contractual,7,2,3,2,1,0,United Kingdom,6
+1340,Male,Single,1,1,2,2472,26092,22,Contractual,-1,4,2,3,1,0,United Kingdom,6
+1341,Female,Married,2,1,3,5673,6060,36,Contractual,13,2,4,3,10,9,United Kingdom,6
+1342,Male,Divorced,2,1,3,4197,18624,31,Contractual,8,2,2,3,10,8,United Kingdom,6
+1343,Male,Married,3,1,4,9713,24444,34,Contractual,11,3,3,3,5,3,United Kingdom,6
+1344,Male,Single,1,1,1,2062,19384,29,Contractual,6,4,2,3,3,2,United Kingdom,6
+1345,Male,Married,2,1,1,4284,13588,37,Contractual,14,4,2,3,5,3,United Kingdom,6
+1346,Female,Married,2,1,2,4788,25388,35,Contractual,12,4,2,3,3,2,United Kingdom,6
+1347,Female,Married,2,1,4,5906,23888,45,Contractual,22,2,2,2,9,8,United Kingdom,6
+1348,Male,Single,2,1,4,3886,4223,36,Contractual,13,2,2,2,10,1,United Kingdom,6
+1349,Male,Divorced,4,1,1,16823,18991,40,Contractual,17,1,3,3,19,7,United Kingdom,6
+1350,Female,Married,1,1,3,2933,14908,26,Contractual,3,2,3,2,1,0,United Kingdom,6
+1351,Female,Single,2,1,3,6500,26997,27,Contractual,4,1,5,2,8,7,United Kingdom,6
+1352,Female,Divorced,4,1,4,17174,2437,48,Contractual,25,4,3,3,22,17,United Kingdom,6
+1353,Male,Married,2,1,1,5033,9364,44,Contractual,21,2,5,3,2,0,United Kingdom,6
+1354,Male,Married,1,1,1,2307,14460,34,Contractual,11,4,2,3,5,2,United Kingdom,6
+1355,Male,Single,1,1,4,2587,10261,56,Contractual,33,1,3,3,4,2,United Kingdom,6
+1356,Male,Married,2,1,2,5507,16822,36,Contractual,13,3,1,1,4,2,United Kingdom,6
+1357,Female,Married,2,1,2,4393,26841,41,Contractual,18,3,3,3,5,4,United Kingdom,6
+1358,Male,Married,3,1,1,13348,14842,42,Contractual,19,3,3,4,13,7,United Kingdom,6
+1359,Female,Divorced,2,1,4,6583,20115,31,Contractual,8,3,2,3,5,2,United Kingdom,6
+1360,Female,Married,2,1,4,8103,16495,34,Contractual,11,4,3,2,4,2,United Kingdom,6
+1361,Female,Divorced,1,1,3,3978,16031,31,Contractual,8,1,0,2,2,2,United Kingdom,6
+1362,Male,Married,1,1,4,2544,7102,26,Contractual,3,3,3,3,7,7,United Kingdom,6
+1363,Male,Single,2,1,3,5399,14511,45,Contractual,22,2,3,3,4,2,United Kingdom,6
+1364,Male,Single,2,1,3,5487,10410,33,Contractual,10,2,2,2,10,4,United Kingdom,6
+1365,Male,Married,2,1,4,6834,19255,28,Contractual,5,3,2,3,7,7,United Kingdom,6
+1366,Male,Single,1,1,1,1091,10642,29,Contractual,6,3,3,3,1,0,United Kingdom,6
+1367,Female,Married,2,1,3,5736,3987,39,Contractual,16,1,1,3,3,2,United Kingdom,6
+1368,Male,Married,1,1,2,2226,6073,27,Contractual,4,2,3,2,5,3,United Kingdom,6
+1369,Male,Married,2,1,4,5747,26496,34,Contractual,11,3,3,3,15,10,United Kingdom,6
+1370,Female,Single,2,1,3,9854,23352,28,Contractual,5,4,0,3,2,0,United Kingdom,6
+1371,Male,Married,2,1,2,5467,2125,47,Contractual,24,3,4,4,8,7,United Kingdom,6
+1372,Female,Married,2,1,1,5380,20328,56,Contractual,33,4,3,3,0,0,United Kingdom,6
+1373,Male,Married,2,1,1,5151,12315,39,Contractual,16,1,3,3,10,0,United Kingdom,6
+1374,Female,Divorced,2,1,2,2133,18115,38,Contractual,15,4,3,3,20,11,United Kingdom,6
+1375,Female,Married,4,1,4,17875,11761,58,Contractual,35,4,2,2,1,0,United Kingdom,6
+1376,Female,Single,1,1,3,2432,15318,32,Contractual,9,1,2,3,4,1,United Kingdom,6
+1377,Male,Divorced,1,1,4,4771,14293,38,Contractual,15,2,0,4,5,2,United Kingdom,6
+1378,Male,Married,5,1,4,19161,13738,49,Contractual,26,2,3,3,5,4,United Kingdom,6
+1379,Male,Divorced,2,1,4,5087,2900,42,Contractual,19,2,4,3,0,0,United Kingdom,6
+1380,Female,Married,1,1,2,2863,19555,27,Contractual,4,1,2,3,1,0,United Kingdom,6
+1381,Male,Married,2,1,1,5561,15975,35,Contractual,12,2,2,1,5,3,United Kingdom,6
+1382,Male,Single,1,1,3,2144,2122,28,Contractual,5,3,3,2,5,3,United Kingdom,6
+1383,Male,Divorced,1,1,1,3065,3995,31,Contractual,8,3,3,4,4,2,United Kingdom,6
+1384,Male,Married,1,1,2,2810,9238,36,Contractual,13,1,3,3,5,4,United Kingdom,6
+1385,Male,Single,3,1,4,9888,6770,34,Contractual,11,1,3,2,14,8,United Kingdom,6
+1386,Male,Divorced,3,1,3,8628,22914,34,Contractual,11,4,2,2,8,7,United Kingdom,6
+1387,Male,Single,1,1,1,2867,20006,26,Contractual,3,3,6,2,7,7,United Kingdom,6
+1388,Male,Married,2,1,1,5373,6225,29,Contractual,6,1,5,2,5,3,United Kingdom,6
+1389,Female,Divorced,2,1,4,6667,16542,32,Contractual,9,3,6,3,5,1,United Kingdom,6
+1390,Male,Married,2,1,1,5003,5771,31,Contractual,8,4,6,3,10,8,United Kingdom,6
+1391,Male,Divorced,1,1,4,2367,18779,28,Contractual,5,3,2,2,4,1,United Kingdom,6
+1392,Male,Single,1,1,1,2858,11473,38,Contractual,15,1,3,2,1,0,United Kingdom,6
+1393,Female,Married,2,1,4,5204,13586,35,Contractual,12,3,2,3,10,8,United Kingdom,6
+1394,Male,Single,2,1,4,4105,5099,27,Contractual,4,4,5,3,7,7,United Kingdom,6
+1395,Male,Single,2,1,4,9679,10138,32,Contractual,9,4,1,3,1,0,United Kingdom,6
+1396,Male,Married,2,1,4,5617,21075,31,Contractual,8,1,4,3,10,7,United Kingdom,6
+1397,Male,Single,3,1,1,10448,5843,53,Contractual,30,1,2,2,2,2,United Kingdom,6
+1398,Female,Married,2,1,3,2897,22474,54,Contractual,31,1,6,2,4,3,United Kingdom,6
+1399,Male,Divorced,2,1,3,5968,18079,33,Contractual,10,4,2,3,9,7,United Kingdom,6
+1400,Male,Married,3,1,3,7510,16873,43,Contractual,20,1,1,3,10,9,United Kingdom,6
+1401,Male,Married,1,1,2,2991,5224,38,Contractual,15,4,2,3,6,2,United Kingdom,6
+1402,Male,Married,5,1,2,19636,25811,55,Contractual,32,3,0,3,10,9,United Kingdom,6
+1403,Female,Divorced,1,1,4,1129,17536,31,Contractual,8,4,4,3,1,0,United Kingdom,6
+1404,Male,Single,4,1,1,13341,25098,39,Contractual,16,2,3,3,20,8,United Kingdom,6
+1405,Male,Single,2,1,3,4332,14811,42,Contractual,19,4,2,3,20,9,United Kingdom,6
+1406,Female,Married,3,1,3,11031,26862,31,Contractual,8,3,2,4,11,7,United Kingdom,6
+1407,Female,Single,2,1,1,4440,25198,54,Contractual,31,3,3,3,5,2,United Kingdom,6
+1408,Male,Single,2,1,3,4617,14120,24,Contractual,1,2,2,2,4,3,United Kingdom,6
+1409,Male,Single,1,1,4,2647,13672,23,Contractual,0,4,6,4,5,2,United Kingdom,6
+1410,Female,Married,2,1,3,6323,26849,40,Contractual,17,4,2,4,10,9,United Kingdom,6
+1411,Female,Married,2,1,2,5677,4258,40,Contractual,17,2,4,3,11,8,United Kingdom,6
+1412,Female,Married,1,1,2,2187,19655,25,Contractual,2,3,3,3,2,0,United Kingdom,6
+1413,Male,Married,1,1,2,3748,4077,30,Contractual,7,4,6,2,12,8,United Kingdom,6
+1414,Male,Divorced,1,1,3,3977,7298,25,Contractual,2,4,2,2,2,2,United Kingdom,6
+1415,Male,Single,3,1,3,8633,13084,47,Contractual,24,5,3,3,17,14,United Kingdom,6
+1416,Male,Divorced,1,1,3,2008,20439,33,Contractual,10,2,2,2,1,1,United Kingdom,6
+1417,Male,Married,2,1,2,4440,7636,38,Contractual,15,4,3,3,15,13,United Kingdom,6
+1418,Male,Married,1,1,3,3067,6393,31,Contractual,8,1,1,3,2,2,United Kingdom,6
+1419,Male,Married,2,1,3,5321,14284,38,Contractual,15,5,1,3,8,3,United Kingdom,6
+1420,Male,Divorced,2,1,1,5410,11189,42,Contractual,19,4,3,2,4,3,United Kingdom,6
+1421,Male,Married,1,1,4,2782,21412,41,Contractual,18,4,3,3,5,3,United Kingdom,6
+1422,Female,Married,3,1,2,11957,17231,47,Contractual,24,3,3,1,13,8,United Kingdom,6
+1423,Male,Married,1,1,3,2660,20232,35,Contractual,12,4,3,3,2,2,United Kingdom,6
+1424,Male,Single,1,1,3,3375,17624,22,Contractual,-1,4,2,4,3,2,United Kingdom,6
+1425,Male,Single,2,1,3,5098,18698,35,Contractual,12,2,5,3,10,7,United Kingdom,6
+1426,Female,Married,2,1,4,4878,21653,33,Contractual,10,2,6,3,9,7,United Kingdom,6
+1427,Female,Single,1,1,2,2837,15919,32,Contractual,9,3,3,3,6,2,United Kingdom,6
+1428,Male,Married,1,1,4,2406,4060,40,Contractual,17,5,3,2,1,0,United Kingdom,6
+1429,Male,Married,1,1,2,2269,18024,32,Contractual,9,2,2,3,2,2,United Kingdom,6
+1430,Male,Single,2,1,4,4108,5340,39,Contractual,16,1,2,3,7,7,United Kingdom,6
+1431,Female,Married,3,1,3,13206,3376,38,Contractual,15,2,3,3,18,16,United Kingdom,6
+1432,Female,Married,3,1,5,10422,24032,32,Contractual,9,5,3,3,14,10,United Kingdom,6
+1433,Female,Married,3,1,4,13744,15471,37,Contractual,14,3,2,3,16,11,United Kingdom,6
+1434,Female,Divorced,2,1,3,4907,13684,25,Contractual,2,1,3,2,5,3,United Kingdom,6
+1435,Male,Divorced,1,1,5,3482,19788,52,Contractual,29,5,3,2,9,8,United Kingdom,6
+1436,Male,Single,1,1,4,2436,13422,44,Contractual,21,2,2,3,4,3,United Kingdom,6
+1437,Male,Single,1,1,1,2380,25479,21,Contractual,-2,3,6,3,2,2,United Kingdom,6
+1438,Male,Single,5,1,4,19431,15302,39,Contractual,16,4,3,2,6,0,United Kingdom,6
+1439,Male,Married,1,1,5,1790,26956,23,Contractual,0,4,3,2,1,0,United Kingdom,6
+1440,Female,Married,3,1,4,7644,12695,36,Contractual,13,1,2,3,9,7,United Kingdom,6
+1441,Female,Divorced,2,1,5,5131,9192,36,Contractual,13,4,3,3,4,2,United Kingdom,6
+1442,Male,Divorced,2,1,3,6306,26236,56,Contractual,33,3,2,2,13,12,United Kingdom,6
+1443,Male,Married,1,1,4,4787,26124,29,Contractual,6,5,3,4,2,2,United Kingdom,6
+1444,Male,Married,5,1,3,18880,17312,42,Contractual,19,1,2,2,22,6,United Kingdom,6
+1445,Male,Married,1,1,5,2339,3666,56,Contractual,33,4,4,1,10,9,United Kingdom,6
+1446,Female,Married,4,1,2,13570,5640,41,Contractual,18,1,3,3,20,7,United Kingdom,6
+1447,Female,Married,2,1,3,6712,8978,34,Contractual,11,4,2,3,8,7,United Kingdom,6
+1448,Male,Divorced,2,1,4,5406,10436,36,Contractual,13,4,4,2,15,12,United Kingdom,6
+1449,Male,Divorced,2,1,2,8938,12227,41,Contractual,18,5,5,3,5,4,United Kingdom,6
+1450,Male,Single,1,1,5,2439,11288,32,Contractual,9,4,4,3,4,2,United Kingdom,6
+1451,Female,Single,3,1,4,8837,16642,35,Contractual,12,3,2,3,9,0,United Kingdom,6
+1452,Female,Married,2,1,4,5343,5982,38,Contractual,15,1,1,3,10,7,United Kingdom,6
+1453,Male,Divorced,2,1,3,6728,14255,50,Contractual,27,2,3,3,6,3,United Kingdom,6
+1454,Female,Married,2,1,4,6652,14369,36,Contractual,13,2,2,2,6,3,United Kingdom,6
+1455,Female,Single,2,1,5,4850,23333,45,Contractual,22,4,3,3,5,3,United Kingdom,6
+1456,Male,Single,1,1,5,2809,2725,40,Contractual,17,3,2,3,2,2,United Kingdom,6
+1457,Male,Married,2,1,3,5689,24594,35,Contractual,12,3,2,4,10,2,United Kingdom,6
+1458,Female,Married,1,1,3,2001,12549,40,Contractual,17,3,2,3,5,3,United Kingdom,6
+1459,Female,Married,1,1,5,2977,8952,35,Contractual,12,3,5,3,4,3,United Kingdom,6
+1460,Male,Married,2,1,2,4025,23679,29,Contractual,6,4,2,3,4,3,United Kingdom,6
+1461,Female,Single,1,1,1,3785,8489,29,Contractual,6,4,3,1,5,4,United Kingdom,6
+1462,Male,Divorced,3,1,1,10854,16586,50,Contractual,27,4,3,3,3,2,United Kingdom,6
+1463,Female,Married,4,1,5,12031,8828,39,Contractual,16,2,2,2,20,9,United Kingdom,6
+1464,Male,Single,2,1,1,9936,3787,31,Contractual,8,5,2,3,9,4,United Kingdom,6
+1465,Female,Single,1,1,3,2966,21378,26,Contractual,3,4,2,3,4,2,United Kingdom,6
+1466,Male,Married,2,1,4,2571,12290,36,Contractual,13,3,3,3,5,2,United Kingdom,6
+1467,Male,Married,3,1,5,9991,21457,39,Contractual,16,5,5,3,7,7,United Kingdom,6
+1468,Male,Married,2,1,2,6142,5174,27,Contractual,4,2,0,3,6,2,United Kingdom,6
+1469,Male,Married,2,1,2,5390,13243,49,Contractual,26,4,3,2,9,6,United Kingdom,6
+1470,Male,Married,2,1,5,4404,10228,34,Contractual,11,5,3,4,4,3,United Kingdom,6
