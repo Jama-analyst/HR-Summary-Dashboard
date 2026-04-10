@@ -175,7 +175,7 @@ As the database is MySQL in this project, we need to import the datasets from My
 - Following Good practices of Data Modeling is must. 
 - In this project, we have followed Snowfall Data Modeling method.
   
-[Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.jpg)
+[Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 
 
 
