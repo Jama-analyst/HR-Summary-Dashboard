@@ -115,13 +115,13 @@ The primary focus of the workforce varies significantly by country:
    - The US has the most "senior" profile, which correlates with its higher average monthly income.
 
 ## HR Summary Dashboard (All Countries)
-[All Countries Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
 
 ## HR Summary Dashboard - Australia
-[Australia Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(Australia).png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(Australia).png)
 
 ## HR Summary Dashboard - United Kingdom
-[United Kingdom Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20Kingdom).png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20Kingdom).png)
 
 ## HR Summary Dashboard - United States
-[United States Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20States).png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20States).png)
