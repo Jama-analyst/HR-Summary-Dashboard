@@ -35,8 +35,6 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 ## HR Summary Dashboard
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard.png)
 
-[Team Roug Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Team%20Rough%20Sketches.png)
-
 ## Tech Stacks
 - [X] IBM Cognos Analytics Tool
 - [X] HR_DATASET.csv
@@ -187,6 +185,45 @@ Based on the Mock-ups received as requirement, the team will start designing the
 [Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
           
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
+# Indepth Analysis
+This report provides a comparative analysis of HR metrics across Australia (AU), the United Kingdom (UK), and the United States (US). While the organization maintains a consistent 60/40 gender split globally, regional differences emerge in workforce scale, compensation, and departmental focus.
+
+## Workforce Scale & Experience
+The UK represents the largest regional hub among the three, while Australia operates as a smaller, more specialized branch.
+- [X] Metric:
+- [ ] Total Employees: Australia (161), United Kingdom (752) , United States (557)
+- [ ] Avg. Job Experience: Australia - Years 13.05, United Kingdom - Years 13.84, United States - Years 14.29
+- [ ] Longevity: The US branch boasts the most seasoned workforce, averaging over 14 years of experience.
+- [ ] Stability: All three regions show high tenure (13+ years), indicating strong employee retention across the globe.
+
+## Compensation Analysis
+Financial metrics show that the US branch leads in average earning power, while Australia sits at the lower end of the monthly income scale.
+- Highest Earners: The United States has the highest Average Monthly Income (6.69K) and Monthly Rate (14.6K).
+- The "Mid-Range": The UK follows closely with a 6.47K average monthly income.
+- Regional Variance: Australia’s average income (6K) is roughly 10% lower than the US average, reflecting regional economic adjustments or different departmental compositions.
+
+## Departmental Distribution
+The primary focus of the workforce varies significantly by country:
+- Australia: Operations are heavily concentrated in Department 5 (41 employees). Unlike other regions, Department 6 is nearly non-existent here.
+- United Kingdom: A massive concentration in Department 6 (248 employees), making it the primary engine of the UK branch.
+- United States: Shows a more balanced distribution but still leans toward Department 6 (156 employees) and Department 5 (123 employees).
+
+## Diversity & Demographics
+- [X] Gender Diversity
+ - All three countries maintain a female-majority workforce, though the ratios fluctuate:
+   - Australia: 62.1% Female / 37.9% MaleUnited Kingdom: 61.4% Female / 38.6% MaleUnited States: 57.5% Female / 42.5% Male (The most balanced ratio)
+ - [X] Marital Status
+ - Married employees are the largest demographic in all regions, peaking in the UK (47.1%).
+ - Divorce rates are highest in Australia (27%), compared to the US (21.2%) and UK (22.1%).
+
+## Key Findings & Anomalies
+- [X] UK Income Spike:
+      - In the United Kingdom, Department 3 male employees earn an outlier average of 9,479.45, the highest single departmental average across all three countries.
+- [X] Australian Pay Gaps:
+  - Australia shows the most visible departmental pay gaps, specifically in Department 2, where male income significantly outpaces female income (approx. 7.7K vs 6.3K).
+- [X] US Experience:
+   - The US has the most "senior" profile, which correlates with its higher average monthly income.
 
 ## HR Summary Dashboard (All Countries)
 [All Countries Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
