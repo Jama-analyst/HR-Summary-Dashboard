@@ -65,7 +65,7 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 ## IBM Cognos Analystics Tool
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20-%20Data%20Analystics%20suing%20IBM%20Cognos%20Analystics%20Tool.png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 
 ## Key KPIs
 - Gross Price
