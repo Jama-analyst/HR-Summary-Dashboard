@@ -82,7 +82,7 @@ Tracking the particular type of file extensions for LFS
 - Distributors
 - Consumer
 
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
+
 
 ## Questions to ask before starting with dashboard
 - [X] Being Proactive
@@ -174,7 +174,7 @@ As the database is MySQL in this project, we need to import the datasets from My
 - Following Good practices of Data Modeling is must. 
 - In this project, we have followed Snowfall Data Modeling method.
   
-[Data Module](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
+[Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Module%20(HR-%20Data%20Analytics).png)
 
 
 ## Dashboard designing
