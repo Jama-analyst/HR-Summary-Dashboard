@@ -54,7 +54,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
 
 ## HR Summary Dashboard
-![image](https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
+![image]([https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard.png)
 
 
 ## AIMS Grid
