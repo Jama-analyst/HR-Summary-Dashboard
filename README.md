@@ -40,10 +40,8 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 - [X] HR_DATASET.csv
 - [X] Excel
 
-  
 ## IBM Cognos Analystics Tool
 Uploading HR_DATASET.csv File into IBM Cognos Analytics (via Content)
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 
 ## Dataset Understanding.
@@ -72,15 +70,10 @@ Understanding what data is available will be more helpful while doing analysis, 
 
 ## Data Module
 - Data Module plays a vital role and is considered as the basement of report. All the visuals will be build upon the Data Module.
-- Poor Data Modeling affects the over all performance of the report.
-- Following Good practices of Data Modeling is must. 
+- Poor Data Module affects the over all performance of the report.
+- Following Good practices of Data Module is a must.
 - Created a Data Module that allowed me to fuse, clean, and shape data from disparate sources into a single, cohesive business view.
-  
-[Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
-
-
-
-
+  ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 
 # Indepth Analysis (Comparison)
 This report provides a comparative analysis of HR metrics across Australia (AU), the United Kingdom (UK), and the United States (US). While the organization maintains a consistent 60/40 gender split globally, regional differences emerge in workforce scale, compensation, and departmental focus.
