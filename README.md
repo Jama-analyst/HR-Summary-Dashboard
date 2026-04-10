@@ -196,7 +196,7 @@ In Home View, all the views button will be available. User will land on specific
 [Australia Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(Australia).png)
 
 ## HR Summary Dashboard - United Kingdom
-[United Kingdom Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
+[United Kingdom Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20Kingdom).png)
 
 ## HR Summary Dashboard - United States
 [United States Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
