@@ -190,13 +190,13 @@ Based on the Mock-ups received as requirement, the team will start designing the
 
 ## HR Summary Dashboard (All Countries)
 In Home View, all the views button will be available. User will land on specific view page by clicking the button
-[Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
+[All Country Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
 
 ## HR Summary Dashboard - Australia
-[Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Info%20Page.png)
+[Australia Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Info%20Page.png)
 
 #### HR Summary Dashboard - United Kingdom
-[Finance View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
+[United Kingdom Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
 
 ## HR Summary Dashboard - United States
-[Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
+[United States Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
