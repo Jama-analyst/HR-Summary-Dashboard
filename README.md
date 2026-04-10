@@ -178,6 +178,7 @@ As the database is MySQL in this project, we need to import the datasets from My
 [Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.jpg)
 
 
+
 ## Dashboard designing
 Based on the Mock-ups received as requirement, the team will start designing the visuals and create measure as and when required
    - Benchmark Data
