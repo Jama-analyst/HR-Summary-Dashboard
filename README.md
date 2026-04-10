@@ -1,4 +1,41 @@
 # HR-Summary-Dashboard
+This HR Summary Dashboard provides a high-level overview of the organization’s workforce, focusing on demographics, departmental distribution, and financial metrics across all global operations.
+
+Key Performance Indicators (KPIs)
+The organization maintains a workforce of 1,470 employees (1.47K) with the following averages:
+
+Average Monthly Income: 6.5K
+
+Average Monthly Rate: 14.3K
+
+Average Job Experience: 13.92 years
+
+Workforce Composition
+Gender Diversity
+The workforce shows a significant gender lean, with 60% identifying as Female and 40% as Male. This ratio remains relatively consistent across various departments, though the total volume of employees varies.
+
+Marital Status
+The employee population is predominantly composed of married individuals:
+
+Married: 45.6%
+
+Single: 32.1%
+
+Divorced: 22.3%
+
+Departmental Insights
+The dashboard utilizes numerical identifiers for departments (1 through 6).
+
+Employee Count: Department 6 is the largest by a wide margin, employing over 400 individuals. Department 1 is the smallest, with fewer than 100 employees.
+
+Income Distribution: While Department 6 has the highest headcount, Department 4 appears to command the highest average monthly income, peaking at approximately 7,604.88 for male employees.
+
+Gender Pay Parity: In most departments, the average monthly income between male and female employees is closely aligned, suggesting equitable pay structures across the numerical divisions.
+
+Engagement Factors
+The "Factors Affecting Job Experience" radar chart indicates multiple data points influencing the employee lifecycle. While specific labels are minimized, the distribution suggests that job experience is influenced by a balanced mix of internal factors rather than a single outlier.
+
+Observation: The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
 # Business-Insight-360
 ## Company's Background
 AtliQ Hardware is a hardware retail company, which offers a range of products such as PCs, mouse, printers. It has become the fast-growing company in electronic goods market. Even though they grew substantially in the last few years, they had a bitter experience in Latin America.
@@ -13,13 +50,12 @@ One of the challenges they are facing is their competitors, which is DELL that i
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ Hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-## Solution
-Sales Director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of Data Experties to complete this task.
+## Obversation
+The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
 
-## The Email that Started this Project:
-- The Data Analytics Project started with an email from Product Owner providing us with a rough sketche requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review).
-- [ ] Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
- (https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
+## HR Summary Dashboard
+![image](https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
+
 
 ## AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
