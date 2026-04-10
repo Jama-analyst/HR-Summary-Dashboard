@@ -40,31 +40,10 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 - [X] HR_DATASET.csv
 - [X] Excel
 
-
-## Project Charter File
-- PowerBI techniques Learnt
-- What are all the questions should be asked before staring the project
-- Creating calculated columns
-- Creating measure using DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using divide function to prevent zero division errors
-- Creating date table using m language
-- Dynamic titles based on the applied filters
-- Using KPI indicators
-- Conditional formatting the values in visuals using icons or background color
-- Data validation techniques
-- PowerBI Services
-- Publishing Reports to PowerBI Services
-- Setting up personal gateway to set up the auto refresh of data
-- PowerBI App creation
-- Collaboration, workspace, access permissions in PowerBI Services
-- And more 😅
   
 ## IBM Cognos Analystics Tool
-Uploading Large size files using GitHub LFS
-Tracking the particular type of file extensions for LFS
+Uploading HR_DATASET.csv File into IBM Cognos Analytics (via Content)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 
 ## Dataset Understanding.
