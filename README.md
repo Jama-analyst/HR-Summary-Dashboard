@@ -29,8 +29,11 @@ The dashboard utilizes numerical identifiers for departments (1 through 6).
 ## Engagement Factors
 The "Factors Affecting Job Experience" radar chart indicates multiple data points influencing the employee lifecycle. While specific labels are minimized, the distribution suggests that job experience is influenced by a balanced mix of internal factors rather than a single outlier.
 
-## Obversation
-The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
+## Key Insights & Observations
+- [X] Stable Compensation: There is no drastic disparity in monthly income between the three departments, suggesting a standardized pay structure.
+- [X] Experienced Workforce: With an average experience level exceeding 10 years, the organization likely benefits from high institutional knowledge.
+- [X] Family Status: Nearly half the workforce is married, which may influence company benefit preferences (e.g. healthcare, parental leave).
+- The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
 
 ## HR Summary Dashboard
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard.png)
