@@ -41,7 +41,8 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 - [X] Excel
 
 ## IBM Cognos Analystics Tool
-Uploading HR_DATASET.csv File into IBM Cognos Analytics (via Content)
+Uploading HR_DATASET.csv File into IBM Cognos Analytics (via My Content)
+NB: I loaded the data into My Content to restrict public viewing.
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 
 ## Dataset Understanding.
