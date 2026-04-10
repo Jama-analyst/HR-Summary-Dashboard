@@ -1,54 +1,30 @@
 # HR-Summary-Dashboard
 This HR Summary Dashboard provides a high-level overview of the organization’s workforce, focusing on demographics, departmental distribution, and financial metrics across all global operations.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 The organization maintains a workforce of 1,470 employees (1.47K) with the following averages:
+- Average Monthly Income: 6.5K
+- Average Monthly Rate: 14.3K
+- Average Job Experience: 13.92 years
 
-Average Monthly Income: 6.5K
-
-Average Monthly Rate: 14.3K
-
-Average Job Experience: 13.92 years
-
-Workforce Composition
-Gender Diversity
+## Workforce Composition
+- [X] Gender Diversity
 The workforce shows a significant gender lean, with 60% identifying as Female and 40% as Male. This ratio remains relatively consistent across various departments, though the total volume of employees varies.
 
-Marital Status
+- [X] Marital Status
 The employee population is predominantly composed of married individuals:
+- Married: 45.6%
+- Single: 32.1%
+- Divorced: 22.3%
 
-Married: 45.6%
-
-Single: 32.1%
-
-Divorced: 22.3%
-
-Departmental Insights
+## Departmental Insights
 The dashboard utilizes numerical identifiers for departments (1 through 6).
+- Employee Count: Department 6 is the largest by a wide margin, employing over 400 individuals. Department 1 is the smallest, with fewer than 100 employees.
+- Income Distribution: While Department 6 has the highest headcount, Department 4 appears to command the highest average monthly income, peaking at approximately 7,604.88 for male employees.
+- Gender Pay Parity: In most departments, the average monthly income between male and female employees is closely aligned, suggesting equitable pay structures across the numerical divisions.
 
-Employee Count: Department 6 is the largest by a wide margin, employing over 400 individuals. Department 1 is the smallest, with fewer than 100 employees.
-
-Income Distribution: While Department 6 has the highest headcount, Department 4 appears to command the highest average monthly income, peaking at approximately 7,604.88 for male employees.
-
-Gender Pay Parity: In most departments, the average monthly income between male and female employees is closely aligned, suggesting equitable pay structures across the numerical divisions.
-
-Engagement Factors
+## Engagement Factors
 The "Factors Affecting Job Experience" radar chart indicates multiple data points influencing the employee lifecycle. While specific labels are minimized, the distribution suggests that job experience is influenced by a balanced mix of internal factors rather than a single outlier.
-
-Observation: The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
-# Business-Insight-360
-## Company's Background
-AtliQ Hardware is a hardware retail company, which offers a range of products such as PCs, mouse, printers. It has become the fast-growing company in electronic goods market. Even though they grew substantially in the last few years, they had a bitter experience in Latin America.
-They set up their business there, but faced a huge loss and this happened because decisions were made based on some survey they conducted and on their intuition. In their new Strategy meeting, one of their top items was to onboard data analytics in the company and to make data driven decision.
-- Retailers
-- Direct
-- Distributors
-
-## Problem Statement
-They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have decided to invest in a data analytics project and have assigned a team for this task, to onboard data analytics and to bring transparency into their data, so that they can make correct decisions.
-One of the challenges they are facing is their competitors, which is DELL that is growing, and has a huge data analytics team, which does all kind of analytics on customers demographics, their consumption patterns and so forth. To face that competition AtliQ had to do these, they had no other possibility.
-
-Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ Hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
 ## Obversation
 The organization possesses a highly experienced workforce (averaging nearly 14 years). This suggests high retention rates, though it may also indicate a need for succession planning as senior staff approach retirement.
@@ -56,60 +32,13 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 ## HR Summary Dashboard
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard.png)
 
-
-## AIMS Grid
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-![image](https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
-
-## Project Kick-off Meeting:
-- [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
-
-- [ ] Tony leads the meeeting:
- - Welcome, everyone. In today’s meeting, I'm the one driving this project Business Insight 360 and together with me on the call is Jamanovandu Hangara, our Junior Data Analyst, she was newly appointed, she'll be supporting me on this project. I’m excited to get started and to align on our goals and deliverables.
-- [ ] Nick response
-- He acknowledge the welcome, greets Jamanovandu and wants to know what's on the agenda.
--   [ ] Agenda
-  - Project Overview: Discuss the project goals, scope, and objectives.
-  - Roles and Responsibilities: Define team roles and expectations.
-  - Timeline and Milestones: Review the project schedule and key milestones.
-  - Questions and Discussions: Address any questions or concerns.
-     
-- [ ] Tony starts with the Features List and states that he has a cable of questions.
-  
- - **Report Features**
-  
-![image](https://github.com/user-attachments/assets/12806d2e-f152-4d7c-afc7-fb140a338427)
-
-
-       
-**Project Charter was prepared by Tony**
-- [ ] Tony presents the Project Charter and share his screen.
-
-[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
-  
-- I have filled data based on the information I have received e.g Project Name etc, but I still need your help to fill in the rest of the information.
-
-**Objective:**
-  - [x] Tony befriefing under Objectives
-  - The objectives is having analytics in all markets e.g. in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g. in USA and India, we have quite a matured analytic, but if you think about South America and Europe, we don't have much analytic there. Therefore, we want an Enterprise were business intelligent happening and data driven decision making.
-    
-
-       
-**1.** Create a Microsoft Team Channel
-  [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
-  [Teams](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
-
-
-
 [Team Roug Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Team%20Rough%20Sketches.png)
 
 ## Tech Stacks
-- [X] SQL
-- [X] PowerBI Desktop
+- [X] IBM Cognos Analytics Tool
+- [X] HR_DATASET.csv
 - [X] Excel
-- [X] DAX Language
-- [X] DAX Studio (for optimizing the report)
-- [X] Mural
+
 
 ## Project Charter File
 - PowerBI techniques Learnt
