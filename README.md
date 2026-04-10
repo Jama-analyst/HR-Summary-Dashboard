@@ -67,135 +67,50 @@ Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
 
-## Key KPIs
-- Gross Price
-- Pre-invoice deductions
-- Post-Invoice deductions
-- Net Invoice Sale
-- Gross Margin
-- Net Sales
-- Net Profit
-- COGC (Cost of Goods Sold)
-- YTD (Year to Date)
-- YTG (Year to Go)
-- Direct
-- Retailer
-- Distributors
-- Consumer
-
-
-
-## Questions to ask before starting with dashboard
-- [X] Being Proactive
-       - As a Data Analyst, one needs to ask questions, as one needs clarification from the begining
-- [X] NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody.
-- [x]	Expectation Management
-       - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on
-- What is the objective of building this PowerBI Dashboard?
-- In what terms the success of this project will be measured?
-- What will be time dead-line of the project?
-- Do the stakeholders expecting pre-view before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- What are all fears the stakeholderS have in terms of building this dashboard?
-- Who are all will be using this dashboard and for what purpose?
-- What are all expectation the stakeholders have, by the completion of this project?
-- What can go wrong while building this project?
-- What are all the resources/ data needed to build this dashboard?
-- Is there any inputs from stakeholders in terms of design and views of the dashboard?
-  
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
-
 ## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis, before jumping on to the analysis one needds to get a good understanding of what data are available.
 
-- [X] Dimension Table : It will have the static data like details of customer and products
-
-- [X] Fact Table : It will have the data about the transactions
-
-gdb041:
-- [X] dim_customer
-- distinct markets (ex India, USA, Spain)
-- 75 distinct customers thorough out the market
-- [ ] 2 types of platforms
-- Brick & Motors - Physical/offline store
-- E-commerce - Online Store (Amazon, flipkart)
-- [ ] Three channels
-- Retailer
-- Direct
-- Distributors
-- [X] dim_market
-- 27 distinct markets (ex India, USA, spain)
-- 7 sub-zones
-- [ ] 4 regions
-- APAC
-- EU
-- nan
-- LATAM
-- [X] dim_product
-- [ ] Divisions
-- [ ] P & A
-- Peripherals
-- Accessories
-- [ ] PC
-- Notebook
-- Desktop
-- [ ] N & S
-- Networking
-- Storage
- [ ]  There are 14 different categories, Like Internal HDD, keyboard
- [ ] There are different variants available for the same product
-- [X] fact_forecast_monthly
-- [ ] This table is used to forecast the customer’s need in advance, which can help in
- - Higher customer satisfaction
- - Reduced cost in warehouses for storage purpose
-- The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
-- All the date of the month will be replaced by the start date of the month
-- It will have all the column names and in the end it will have the forecast quantity need of the customer
-- [X] fact_sales_monthly
-- This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value.
-
-gdb056
-- [X] freight_cost
-- This table has details of travel cost and other cost for each market with fiscal year
-- [X] gross_price
-- Has the details of gross prices with product code
-- [X] manufacturing_cost
-- Has the details of manufacturing cost with product code with year
-- [X] Pre_invoice_dedutions
-- Has the details of pre invoice deductions percentage for each cutomer with year
-- [X] Post_invoice_deductions
-- Post invoice deductions and other deductions details
-
-## Importing data into PowerBi
-As the database is MySQL in this project, we need to import the datasets from MySQL database to PowerBI by providing the Database access credential
+- [X] HR_DATASET.csv File Table:
+- [ ]  The csv Files consist of the following Columns in the Table:
+- Employee_ID	
+- Gender
+- Marital_Status
+- Grade
+- Count
+- Job_Satisfaction
+- MonthlyIncome
+- MonthlyRate
+- Age
+- Job Type
+- Job Experience
+- Company_Environment
+- TrainingTimesLastYear
+- WorkLifeBalance
+- YearsAtCompany
+- YearsInCurrentRole
+- Country
+- Department_ID
 
 ## Data Module
 - Data Module plays a vital role and is considered as the basement of report. All the visuals will be build upon the Data Module.
 - Poor Data Modeling affects the over all performance of the report.
 - Following Good practices of Data Modeling is must. 
-- In this project, we have followed Snowfall Data Modeling method.
+- Created a Data Module that allowed me to fuse, clean, and shape data from disparate sources into a single, cohesive business view.
   
 [Data Module](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 
 
 
-## Dashboard designing
-Based on the Mock-ups received as requirement, the team will start designing the visuals and create measure as and when required
-   - Benchmark Data
-   - A Mock-up/Rough Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
-     
-[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
-          
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
-# Indepth Analysis
+
+# Indepth Analysis (Comparison)
 This report provides a comparative analysis of HR metrics across Australia (AU), the United Kingdom (UK), and the United States (US). While the organization maintains a consistent 60/40 gender split globally, regional differences emerge in workforce scale, compensation, and departmental focus.
 
 ## Workforce Scale & Experience
 The UK represents the largest regional hub among the three, while Australia operates as a smaller, more specialized branch.
 - [X] Metric:
 - [ ] Total Employees: Australia (161), United Kingdom (752) , United States (557)
-- [ ] Avg. Job Experience: Australia - Years 13.05, United Kingdom - Years 13.84, United States - Years 14.29
+- [ ] Avg. Job Experience: Australia (Years - 13.05), United Kingdom (Years - 13.84), United States (Years - 14.29)
 - [ ] Longevity: The US branch boasts the most seasoned workforce, averaging over 14 years of experience.
 - [ ] Stability: All three regions show high tenure (13+ years), indicating strong employee retention across the globe.
 
