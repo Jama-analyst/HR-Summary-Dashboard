@@ -9,19 +9,22 @@ The organization maintains a workforce of 1,470 employees (1.47K) with the follo
 
 ## Workforce Composition
 - [X] Gender Diversity
-The workforce shows a significant gender lean, with 60% identifying as Female and 40% as Male. This ratio remains relatively consistent across various departments, though the total volume of employees varies.
+   - The workforce shows a significant gender lean, with 60% identifying as Female and 40% as Male. This ratio remains relatively consistent across various departments, though the total volume of employees varies.
 
 - [X] Marital Status
-The employee population is predominantly composed of married individuals:
+  - The employee population is predominantly composed of married individuals:
 - Married: 45.6%
 - Single: 32.1%
 - Divorced: 22.3%
 
 ## Departmental Insights
 The dashboard utilizes numerical identifiers for departments (1 through 6).
-- Employee Count: Department 6 is the largest by a wide margin, employing over 400 individuals. Department 1 is the smallest, with fewer than 100 employees.
-- Income Distribution: While Department 6 has the highest headcount, Department 4 appears to command the highest average monthly income, peaking at approximately 7,604.88 for male employees.
-- Gender Pay Parity: In most departments, the average monthly income between male and female employees is closely aligned, suggesting equitable pay structures across the numerical divisions.
+- [X] Employee Count:
+   - Department 6 is the largest by a wide margin, employing over 400 individuals. Department 1 is the smallest, with fewer than 100 employees.
+- [X] Income Distribution:
+   - While Department 6 has the highest headcount, Department 4 appears to command the highest average monthly income, peaking at approximately 7,604.88 for male employees.
+- [X] Gender Pay Parity:
+   - In most departments, the average monthly income between male and female employees is closely aligned, suggesting equitable pay structures across the numerical divisions.
 
 ## Engagement Factors
 The "Factors Affecting Job Experience" radar chart indicates multiple data points influencing the employee lifecycle. While specific labels are minimized, the distribution suggests that job experience is influenced by a balanced mix of internal factors rather than a single outlier.
@@ -185,28 +188,15 @@ Based on the Mock-ups received as requirement, the team will start designing the
           
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
-## Country Australia
+## HR Summary Dashboard (All Countries)
 In Home View, all the views button will be available. User will land on specific view page by clicking the button
 [Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
 
-## Info Page
+## HR Summary Dashboard - Australia
 [Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Info%20Page.png)
 
-## Finance View
+#### HR Summary Dashboard - United Kingdom
 [Finance View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
 
-## Sales View
+## HR Summary Dashboard - United States
 [Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
-
-## Marketing View
-[Marketing View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Marketing%20View%20Dashboard.png)
-
-## Supply Chain View
-[Supply Chain View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Supply%20Chains%20View%20Dashboard.png)
-
-## Executive View
-[[Executive View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Executive%20View%20Dashboard.png)
-
-## Support Page
-[Support Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Support%20Page.png)
-
