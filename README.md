@@ -189,8 +189,7 @@ Based on the Mock-ups received as requirement, the team will start designing the
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
 ## HR Summary Dashboard (All Countries)
-In Home View, all the views button will be available. User will land on specific view page by clicking the button
-[All Country Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
+[All Countries Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(All%20Countries).png)
 
 ## HR Summary Dashboard - Australia
 [Australia Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(Australia).png)
@@ -199,4 +198,4 @@ In Home View, all the views button will be available. User will land on specific
 [United Kingdom Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20Kingdom).png)
 
 ## HR Summary Dashboard - United States
-[United States Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
+[United States Dashboard](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/HR%20Summary%20Dashboard%20(United%20States).png)
