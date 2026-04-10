@@ -44,7 +44,7 @@ The organization possesses a highly experienced workforce (averaging nearly 14 y
 ## IBM Cognos Analystics Tool
 Uploading HR_DATASET.csv File into IBM Cognos Analytics (via Content)
 ![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
-![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Cleaning.png)
+![image](https://github.com/Jama-analyst/HR-Summary-Dashboard/blob/main/Data%20Loading.png)
 
 ## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis, before jumping on to the analysis one needds to get a good understanding of what data are available.
